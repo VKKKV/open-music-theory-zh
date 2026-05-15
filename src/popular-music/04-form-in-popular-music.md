@@ -88,6 +88,15 @@ Bryn Hughes 和 Megan Lavengood
 
 - 有趣的是，在这首歌中，吉他手并不总是记住转回。注意在0:28处，低音和上低音萨克斯管演奏属和声，但吉他手保持主和声。在1:18处，歌手喊道"Watch it now! Watch it! Watch it!"好像在警告吉他手不要错过下一小节的转回。他在2:08处也做了同样的事。当吉他手与乐队其余成员一起完成转回时，歌手喊道"You got it! You got it!"好像在祝贺吉他手。↵
 
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://open.spotify.com/embed/track/3dh2LlmeMqKJbzn2WUgt3d" width="100%" height="80" frameborder="0" allow="encrypted-media"></iframe>
+
+
 ## 许可
 ## 许可
 

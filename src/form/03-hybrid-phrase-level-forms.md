@@ -130,4 +130,13 @@ III. 曲式
 - 当然，这也可以出现在小调中，如 me–fa–sol–do$(\downarrow\hat3-\hat4-\hat5-\hat1)$。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/3sig09wZzjmq32smpgnPZ4>
+
+
 *原文: [Hybrid Phrase-Level Forms](https://viva.pressbooks.pub/openmusictheory/chapter/hybrid-phrase-level-forms) | CC BY-SA*

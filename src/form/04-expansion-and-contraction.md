@@ -125,4 +125,13 @@ III. 曲式
 - 改写以去除扩展（.pdf, .docx）。要求学生改写练习1中的摘录，去除原型曲式中的扩展部分。练习播放列表
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/6XzDtaE6Qtto0mvrKJvJT6>
+
+
 *原文: [Expansion and Contraction at the Phrase Level](https://viva.pressbooks.pub/openmusictheory/chapter/expansion-and-contraction/) | CC BY-SA*
