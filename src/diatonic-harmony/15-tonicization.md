@@ -138,4 +138,46 @@ IV. 自然音和声、临时主音化与转调
 - 临时主音化声部进行与总谱分析（.pdf, .docx）。要求学生从罗马数字和数字低音写作、从较长的数字低音写作，并分析完整作品并回答讨论问题。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://www.youtube.com/embed/8HRZFpjWx_M" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/s-RfsJ8Gx8k" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6268930/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6268934/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6268967/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6268972/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6270521/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6270540/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6270545/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6270553/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/23457127/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/1YidIHTJIPytHKhTHwX7lv?si=a6c7abee0e514bb6>
+
+
 *原文: [Tonicization](https://viva.pressbooks.pub/openmusictheory/chapter/tonicization) | CC BY-SA*

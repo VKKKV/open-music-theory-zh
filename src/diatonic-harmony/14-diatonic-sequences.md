@@ -77,4 +77,37 @@ IV. 自然音和声、临时主音化与转调
 - 中间段的自然音序列（.pdf, .docx）。要求学生进行声部写作、分析，并标记自然音序列的类型。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://www.youtube.com/embed/DsQD95SKtck" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/26074258/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/26074177/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/26074216/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/26074285/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/26074351/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/26074324/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/26074309/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/3RqDcrwvVSp6RIh4J1cPy5?si=ae6f73ac665447d8>
+
+
 *原文: [Diatonic Sequences in Middles](https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-sequences) | CC BY-SA*

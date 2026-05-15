@@ -151,4 +151,40 @@ Joan Tower 经常使用八声音阶集合，在她的作品《银梯》（Silver
 - 这主要来自 Clough and Douthett 1991。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5990266/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5990278/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5990299/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5992271/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5992316/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6925856/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6925866/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5992286/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6925817/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/2bBag1Sn1QRkWxzoHQrSNC>
+
+
 *原文: [Collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections) | CC BY-SA*

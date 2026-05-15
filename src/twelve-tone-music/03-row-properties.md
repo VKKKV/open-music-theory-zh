@@ -124,4 +124,22 @@ Elizabeth Lutyens, Chamber Concerto, Op. 8, no. 1, mvmt. I: | 3–2–5–6–11
 - 楔形在这两种情况下都是赋格的主题，因此是核心焦点，在整个作品中频繁出现，这可能加强了这种联系。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8862120/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8862261/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8862222/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8862252/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 *原文: [Row Properties](https://viva.pressbooks.pub/openmusictheory/chapter/row-properties/) | CC BY-SA*

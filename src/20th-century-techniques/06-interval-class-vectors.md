@@ -63,4 +63,13 @@ VIII. 二十世纪与二十一世纪技法
 - 音级集合向量练习（.pdf, .docx）。要求学生为若干集合计算音级集合向量。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://www.youtube.com/embed/UiSqq-edlKA" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
 *原文: [Interval-Class Vectors](https://viva.pressbooks.pub/openmusictheory/chapter/interval-class-vectors) | CC BY-SA*

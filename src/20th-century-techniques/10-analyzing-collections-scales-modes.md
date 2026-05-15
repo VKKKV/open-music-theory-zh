@@ -79,4 +79,13 @@ VIII. 二十世纪与二十一世纪技法
 - 分析 Lili Boulanger 辉煌的《太阳赞歌》（Hymne au Soleil）。识别所使用的调式和音级集合，以及相关技术和材料，并在你认为合适的地方将这些与作品可能的"意义"联系起来。乐谱可在 IMSLP 和 MuseScore 上找到。两者都包含原始法文歌词和英文翻译。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/5rU9CDbA7A7LlbMMDGIYXz>
+
+
 *原文: [Analyzing with Modes, Scales, and Collections](https://viva.pressbooks.pub/openmusictheory/chapter/analyzing-with-collections-scales-and-modes) | CC BY-SA*

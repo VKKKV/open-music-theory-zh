@@ -146,4 +146,19 @@ Luigi Dallapiccola的《小夜曲》（Piccola Musica Notturna，字面意思是
 - 这是Lutyens在BL Add. Ms. 64789手稿（f.48b）中给出的音列形式。感谢Laurel Parsons提供此信息。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6591448/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6591521/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/7t9wVMPPjOgOsnyVPCaWDO>
+
+
 *原文: [Basics of Twelve-Tone Theory](https://viva.pressbooks.pub/openmusictheory/chapter/basics-of-twelve-tone-theory) | CC BY-SA*

@@ -68,6 +68,15 @@ I want a dream loverSo I don't have to dream alone | c（结论）
 
 - 段落结构练习（.pdf, .docx）。要求学生识别段落内的两段式、三段式和四段式乐句组织。练习播放列表
 
+
+---
+
+## 🎵 音频与互动示例
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/4crhnsTkz0IeVUOYepEDiF?si=1f6003628e51435f>
+
+
 ## 许可
 ## 许可
 

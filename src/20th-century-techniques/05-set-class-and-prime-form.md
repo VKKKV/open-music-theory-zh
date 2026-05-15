@@ -200,4 +200,13 @@ Megan Lavengood 和 Brian Moseley
 - 集合类作曲 (.pdf, .docx)。在准备工作表的基础上，要求学生使用集合类为无伴奏独奏乐器创作和分析一首24小节的ABA形式作品。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8648514/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 *原文: [集合类与质数形式](https://viva.pressbooks.pub/openmusictheory/chapter/set-class-and-prime-form/) | CC BY-SA*

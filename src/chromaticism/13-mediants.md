@@ -81,4 +81,16 @@ A♭mi | 双半音化 | n/a | PLP
 - 尽管这些新里曼术语有德语根源，但当代德语音乐理论通常会用Gegenklang（G）和Parallel（P）这些术语来讨论这些关系。这会令人困惑，因此请参阅本章末尾的"功能与变换"部分。目前，LPR术语在此处按上一章建立的新里曼意义使用。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8135649/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5879039/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 *原文: [Mediants](https://viva.pressbooks.pub/openmusictheory/chapter/mediants) | CC BY-SA*

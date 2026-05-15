@@ -137,4 +137,19 @@ VIII. 二十世纪与二十一世纪技法
 - Vincent Persichetti (1961) 将这些音称为"特征音"。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8631327/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5973262/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/4cqW6tS2ZTCooPlBSfr2N1>
+
+
 *原文: [Diatonic Modes](https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-modes/) | CC BY-SA*

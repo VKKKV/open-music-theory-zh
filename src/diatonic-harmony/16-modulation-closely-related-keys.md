@@ -108,4 +108,25 @@ IV. 自然音和声、临时主音化与转调
 - 扩展临时主音化与向近关系调的转调（.pdf, .docx）。要求学生回顾临时主音化、识别近关系调和枢轴和弦、进行分析，并创建一个转调进行。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6279080/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6279089/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6279114/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6279128/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/0EzPSaf9PEetN7TvfPTvt6?si=0ce8dbefee5b4f6d>
+
+
 *原文: [Extended Tonicization and Modulation to Closely Related Keys](https://viva.pressbooks.pub/openmusictheory/chapter/extended-tonicization-and-modulation-to-closely-related-keys) | CC BY-SA*

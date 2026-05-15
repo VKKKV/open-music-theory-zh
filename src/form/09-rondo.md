@@ -67,4 +67,19 @@ B段与A第二次陈述之间的空间更清晰一些。第51小节III调中的P
 - Joseph Bologne，弦乐四重奏，Op. 1, no. 4，第二乐章，回旋曲（.pdf, .docx）。访问乐谱和音频。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://www.youtube.com/embed/wGSzzqQ0BRw" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8404601/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/792m5HtGUbT3BcjQzSyrxE?si=e7b53532085e4064>
+
+
 *原文: [Rondo](https://viva.pressbooks.pub/openmusictheory/chapter/rondo) | CC BY-SA*

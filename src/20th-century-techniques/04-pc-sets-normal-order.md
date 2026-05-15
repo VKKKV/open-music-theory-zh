@@ -132,4 +132,16 @@ I8[2,4,7] = [1,4,6]。
 Open Music TheoryCopyright © 2023 byMark Gotham; Kyle Gullings; Chelsey Hamm; Bryn Hughes; Brian Jarvis; Megan Lavengood; and John Petersonis licensed under aCreative Commons Attribution-ShareAlike 4.0 International License, except where otherwise noted.
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8391225/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8391513/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 *原文: [音高等级集、正常顺序和转换](https://viva.pressbooks.pub/openmusictheory/chapter/pc-sets-normal-order-and-transformations) | CC BY-SA*

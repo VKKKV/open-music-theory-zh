@@ -186,4 +186,64 @@ Elliott Carter以其节拍转换著称。在本例中，距离结尾六小节处
 - Jane Piper Clendinning 和 Elizabeth West Marvin，《音乐家的理论与分析指南》，第三版（纽约：W.W. Norton & Company，2016），834。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://www.youtube.com/embed/mUBhtyKIZ-k" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/HilGthRhwP8" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/v-h-M0UWxDA" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/7243425/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/7397384/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/7244349/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/25132750/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/7930598/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8318699/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8009242/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/7268387/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8208440/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/7370069/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/7370258/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/7370744/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/7375673/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/7365281/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/5p8RbikOo2DrEhWeD4QFCV>
+
+
 *原文: [二十世纪节奏技巧](https://viva.pressbooks.pub/openmusictheory/chapter/twentieth-century-rhythmic-techniques) | CC BY-SA*

@@ -98,3 +98,12 @@ IMSLP 上的乐谱
 
 - 见科恩 2000年；福特 1987年；古特 1975年；汉茨 1982年；麦金尼 1993年；萨廷德拉 1992年、1997年；托德 1981年、1996年。↵
 - 见穆莫，《增五度的表现性运用》（1985年，第 354 页及以下），其中有大量明显的音乐外用法，也许最引人注目的是他的最后一个例子，第 213e 条，用于蒙东维尔《达芙妮与阿尔西马杜尔》（1754年）中大炮射击的描绘。↵
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/4985985/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5101361/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>

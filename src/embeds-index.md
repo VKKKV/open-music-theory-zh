@@ -1,30 +1,31 @@
-# OMT2 嵌入内容索引（已整合）
+# OMT2 嵌入内容索引（最终版）
 
-最后更新: 全书中
+最后更新: 全书中 96/127 个文件已嵌入
 
 ## 统计汇总
 
 | 指标 | 数值 |
 |------|------|
-| 已嵌入的文件数 | 66 |
-| MuseScore 嵌入 | 292 |
-| YouTube 嵌入 | 13 |
-| Spotify 播放列表 | 33 |
+| 已嵌入的文件数 | 96/127 |
+| MuseScore 乐谱嵌入 | 465 |
+| YouTube 视频嵌入 | 21 |
+| Spotify 播放列表 | 50 |
 
-## 扫描进度
+## 按单元统计
 
-| 单元 | 已扫描 | 备注 |
-|------|--------|------|
-| 基础 (Fundamentals) | 20/20 ✅ | 完整 |
-| 对位 (Counterpoint) | 13/13 ✅ | 完整 |
-| 曲式 (Form) | 8/9 ⚡ | rondo 未扫 |
-| 和声 (Diatonic Harmony) | 13/16 ⚡ | sequences/tonicization/modulation 未扫 |
-| 半音 (Chromaticism) | 0/13 ❌ | 全部未扫 |
-| 爵士 (Jazz) | 9/9 ✅ | 完整 |
-| 流行 (Popular Music) | 13/15 ⚡ | melody-phrasing/pentatonic/fragile 未扫 |
-| 20世纪 (20th C.) | 0/10 ❌ | 全部未扫 |
-| 十二音 (12-Tone) | 0/6 ❌ | 全部未扫 |
-| 配器 (Orchestration) | 2/3 ⚡ | transcription 无嵌入 |
-| 节奏 (Rhythm) | 2/2 ✅ | 完整 |
-| 视唱 (Ear Training) | 1/3 ⚡ | 2 sight-counting 无嵌入 |
-| 附录 (Supplementary) | 1/4 ⚡ | glossary/helpful 404 |
+| 单元 | 嵌入/总数 | 覆盖率 |
+|------|-----------|--------|
+| front-matter | 0/2 | 0% |
+| fundamentals | 17/22 | 77% |
+| counterpoint | 11/13 | 85% |
+| form | 2/9 | 22% |
+| diatonic-harmony | 16/16 | 100% |
+| chromaticism | 12/13 | 92% |
+| jazz | 9/9 | 100% |
+| popular-music | 13/15 | 87% |
+| 20th-century-techniques | 8/10 | 80% |
+| twelve-tone-music | 3/6 | 50% |
+| orchestration | 2/3 | 67% |
+| rhythm-and-meter | 2/2 | 100% |
+| ear-training | 1/3 | 33% |
+| supplementary | 1/4 | 25% |

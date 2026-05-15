@@ -75,4 +75,16 @@
 Open Music TheoryCopyright © 2023 byMark Gotham; Kyle Gullings; Chelsey Hamm; Bryn Hughes; Brian Jarvis; Megan Lavengood; and John Petersonis licensed under aCreative Commons Attribution-ShareAlike 4.0 International License, except where otherwise noted.
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5706820/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/0eyE798Pe63OxdxKpgBVAr>
+
+
 *原文: [整数表示法中的区间](https://viva.pressbooks.pub/openmusictheory/chapter/intervals-in-integer-notation) | CC BY-SA*

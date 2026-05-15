@@ -235,4 +235,16 @@ P2 | 1 | 0 | 4 | 5 | 9 | 8 | 10 | 6 | 7 | 2 | 3 | 11 | R2
 - 请注意，这有时以替代格式设置，P和I互换位置。Bailey（1991, 附录II）在Webern的草稿之后使用了这种替代格式。这类决定通常没有明确的"更好"方式。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8171934/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8171973/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 *原文: [Analysis Examples – Webern Op. 21 and 24](https://viva.pressbooks.pub/openmusictheory/chapter/twelve-tone-analysis-examples-webern-op-21-and-24) | CC BY-SA*
