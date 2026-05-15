@@ -33,7 +33,7 @@ I. 基础
 
 大调音阶在许多不同音乐类型中极为常见。一个大调音阶的例子可以在泰勒·斯威夫特的"Love Story"（2008 年）中听到。示例 3 展示了这首歌结尾的片段：
 
-[![展示了一个谱行，有两行谱表，一行用于声乐（女高音），一行用于小提琴。小提琴先演奏一个 E 大调音阶（下行）。然后歌手唱出歌曲的最后文本："cause' we were both young when I first saw you."](../Graphics/app/uploads/sites/12/2025/07/Love-Story-Swift.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Love-Story-Swift.png)
+[![展示了一个谱行，有两行谱表，一行用于声乐（女高音），一行用于小提琴。小提琴先演奏一个 E 大调音阶（下行）。](../Graphics/app/uploads/sites/12/2025/07/Love-Story-Swift.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Love-Story-Swift.png)
 示例 3.
 泰勒·斯威夫特的"Love Story"（2008 年）的片段。
 

@@ -33,7 +33,7 @@ LMFAO 的"Shots"（2009 年）副歌的片段。
 
 二连音也相当常见，虽然可能不如三连音那么常见。示例 5 展示了安德鲁·劳埃德·韦伯的《猫》（1980 年）中"Memory"再现部的片段，其中包括拍子层面的二连音：
 
-[![展示了一个带有"Memory"声乐部分的谱表。文本写道："memory, turn your face to the moon light, let your memory lead you, open up enter in. If you find the meaning of what happiness is..."片段的第五小节中有二连音。](../Graphics/app/uploads/sites/12/2025/07/Memory-Cats-Webber.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Memory-Cats-Webber.png)
+[![展示了一个带有"Memory"声乐部分的谱表。文本写道："memory, turn your face to the moon light,](../Graphics/app/uploads/sites/12/2025/07/Memory-Cats-Webber.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Memory-Cats-Webber.png)
 示例 5.
 安德鲁·劳埃德·韦伯的《猫》（1980 年）中"Memory"再现部的片段。
 
