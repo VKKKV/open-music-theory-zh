@@ -33,6 +33,9 @@ V. 半音化
 - 这可以说给人一种主-属交替的印象，但变化非常微小。
 
 [![舒伯特《阿特拉斯》摘录](../Graphics/app/uploads/sites/12/2020/01/Atlas.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Atlas.png)
+
+<iframe src="https://musescore.com/user/32728834/scores/4985985/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 1.
 舒伯特《阿特拉斯》开头的摘录（选自《天鹅之歌》，D.957），展示了增三和弦 III+（可能，取决于你的分析视角），以及该和弦与 V 和 i 的密切关系。
 
@@ -49,6 +52,9 @@ V. 半音化
 在一般情况下这可能是正确的，但这并不是说没有辉煌的反例。例 2 给出了一个这样的例子，来自巴赫《尊主颂》（1723年，1733年）中"他施展大能"结尾的"mente cordis"部分。这是一个非凡的时刻：不仅有一个增三和弦，而且它是由几乎完整的力量引入的，跨越整个音域，并且在戏剧性的全体休止之后，而该休止本身之前有一个减七和弦。你不可能在任何曲目中找到比这更清晰、更具戏剧前景的增三和弦了。
 
 [![例 2.](../Graphics/app/uploads/sites/12/2020/01/Bach.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Bach.png)
+
+<iframe src="https://musescore.com/user/32728834/scores/5101361/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 2.
 巴赫《尊主颂》"他施展大能"中的一个突出增和弦，以及该段落的一种可能和声解读，将增三和弦视为在一个由两个二级属和弦 vii/v 包围的小调 V 段落中设置了一个阻碍终止。
 
@@ -99,11 +105,3 @@ IMSLP 上的乐谱
 - 见科恩 2000年；福特 1987年；古特 1975年；汉茨 1982年；麦金尼 1993年；萨廷德拉 1992年、1997年；托德 1981年、1996年。↵
 - 见穆莫，《增五度的表现性运用》（1985年，第 354 页及以下），其中有大量明显的音乐外用法，也许最引人注目的是他的最后一个例子，第 213e 条，用于蒙东维尔《达芙妮与阿尔西马杜尔》（1754年）中大炮射击的描绘。↵
 ---
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/4985985/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/5101361/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>

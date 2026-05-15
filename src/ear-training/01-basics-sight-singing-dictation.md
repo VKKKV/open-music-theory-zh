@@ -19,6 +19,9 @@
 
 例 1 展示了坐着时正确的歌唱姿势：
 
+
+<iframe src="https://musescore.com/user/32728834/scores/8455859/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 1. 坐着时正确的歌唱姿势。
 
 在视节奏时，使用节奏唱名法（rhythmic solmization）系统很有帮助。《开放音乐理论》优先采用美国标准计数法，但还有许多其他优秀的计数系统可用。以下是视节奏的其他策略：
@@ -52,15 +55,24 @@
 
 [🔊 音频示例](https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/untitled-2.mp3)
 
+
+<iframe src="https://musescore.com/user/32728834/scores/8455769/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 2. 用于听写的节奏。
 
 听例 2，这是一段用于听写的节奏录音。进行节奏听写的一种策略是构建点阵（dot grid）。点阵是一系列代表拍子和小节的点。例 3 展示了四四拍（common time）中四个小节的点阵：
 
 [![四组四个点的图示](../Graphics/app/uploads/sites/12/2019/11/Screen-Shot-2020-07-03-at-10.01.23-AM-300x42.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2020-07-03-at-10.01.23-AM-300x42.png)
+
+<iframe src="https://musescore.com/user/32728834/scores/8455748/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 3.
 四四拍中四个小节的点阵。
 
 一旦构建了点阵，你可以在你听到断奏的地方放置斜线，在持续音的地方放置横线（水平线），在休止的地方放置圆圈。这称为斜线记谱（slash notation）。接下来，你需要将你的斜线记谱转化为五线谱记谱。例 4 展示了斜线记谱，然后是五线谱记谱。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8455691/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 4. 例 2 的斜线记谱和五线谱记谱。
 
@@ -69,6 +81,9 @@
 ## 旋律听写
 
 [🔊 音频示例](https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/untitled-2-1.mp3)
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8455655/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 4. 一条与例 2 相同节奏的旋律。
 
@@ -123,7 +138,6 @@
 例 13 展示了一条原始记谱的旋律，以三种不同的谱号、复拍子和调号实现。第一个实现是高音谱号 E♭ 大调，拍号分母为 4。第二个实现是次中音谱号 C♯ 大调（与给定调号对比），拍号分母为 8。第三个实现是低音谱号 F 大调，拍号分母为 1。
 
 
-
 例 13. 原始记谱中旋律的三种不同实现。
 
 与视唱和视节奏一样，节奏和旋律听写也需要多年才能掌握。如果你是本科音乐专业，你可能会在多门课程中、多年间练习这些技能。再次强调，对自己要有耐心，如果你在挣扎，请尽早与你的老师见面寻求帮助。
@@ -173,28 +187,5 @@
 
 ---
 
-## 🎵 音频与互动示例
-
-
 <iframe src="https://www.youtube.com/embed/OIe4tB1vYVs" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8455859/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8455769/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8455748/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8455691/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8455655/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-📋 **章节播放列表**: <https://open.spotify.com/playlist/2IJiGRYUU2cAnFh3oLamar>
-
-
 *原文: [The Basics of Sight-Singing and Dictation](https://viva.pressbooks.pub/openmusictheory/chapter/the-basics-of-sight-singing-and-dictation) | CC BY-SA*

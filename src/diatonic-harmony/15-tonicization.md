@@ -21,7 +21,13 @@ IV. 自然音和声、临时主音化与转调
 
 例 1 分析了一段暂时使 V 听起来像主和弦的片段。例 2 从例 1 中提取了参与临时主音化的两个和弦。我们有一个 C7 和弦进行到 F 和弦，所以如果不考虑调号或例 1 提供的上下文来分析这些和弦，我们会说这两个和弦代表 F 大调中的进行 $\mathrm{V^6_5-I}$（例 2a）。
 
+
+<iframe src="https://www.youtube.com/embed/8HRZFpjWx_M" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
 例 1. Joseph Bologne《Six Concertante Quartets》No. 1, II 中的临时主音化，第 1–8 小节。
+
+
+<iframe src="https://www.youtube.com/embed/s-RfsJ8Gx8k" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 例 2. Joseph Bologne《Six Concertante Quartets》No. 1, II 中临时主音化的简化，第 3–4 小节。
 
@@ -31,7 +37,13 @@ IV. 自然音和声、临时主音化与转调
 
 临时主音化也可以通过副导和弦来实现，如例 3 所示。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6268930/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 3. Josephine Lang《Du gleichst dem klaren blanen See》中的临时主音化，第 21–24 小节。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6268934/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 4. Josephine Lang 作品中临时主音化的简化。
 
@@ -62,6 +74,9 @@ IV. 自然音和声、临时主音化与转调
 - 假装这个根音是一个临时调性的主音
 - 在该调中拼写顶部的罗马数字（V7 或 viio7）
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6268967/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 5. 拼写附属和弦的步骤。
 
 ### 解决
@@ -79,6 +94,9 @@ IV. 自然音和声、临时主音化与转调
 - 拼写副和弦
 - 遵循典型的声部写作程序，但要在临时新调中思考以确定倾向音如何解决
 - 检查变化记号（特别是在小调中）
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6268972/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 7. 解决附属和弦的步骤。
 
@@ -99,8 +117,12 @@ IV. 自然音和声、临时主音化与转调
 临时主音化强属前和弦通常涉及主三和弦成员的半音变化。例如，通过将 te $(\downarrow\hat7)$ 添加到三和弦，主三和弦可以很容易地变成 V7/IV 和弦（例 8）。类似地，通过升高 do ($\hat{1}$) 并添加 te $(\downarrow\hat7)$，主三和弦可以变成 viio7/ii（例 9）。
 
 
+<iframe src="https://musescore.com/user/32728834/scores/6270521/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 8. Joseph Bologne《弦乐四重奏 No. 4, I》中临时主音化 IV，第 41–47 小节（1:18–1:30）。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6270540/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 9. Maria Szymanowska《小步舞曲 No. 4》中临时主音化 ii，第 57–64 小节（1:48–1:55）。
 
@@ -108,11 +130,17 @@ IV. 自然音和声、临时主音化与转调
 
 使用临时主音化的一种引人注目的方式是突出欺骗性进行（deceptive motion）（例 10）。在这里，属和弦在 vi 和弦到达之前进行到 viio7/vi，这更加吸引我们注意到 V 和弦之后预期的主和弦的缺失。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6270545/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 10. Josephine Lang《Mag da draussen Sehnee》中临时主音化的欺骗性进行，第 1–5 小节。
 
 # 在自然音进行中添加临时主音化
 
 为临时主音化进行声部写作的步骤与 V 的临时主音化相同。然而，现在我们应该预期看到非属大三和弦和小三和弦的临时主音化。例 11 展示了一个自然音进行（a）以及添加了若干临时主音化的版本（b）。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6270553/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 11. 在自然音进行中添加临时主音化。
 
@@ -130,6 +158,7 @@ IV. 自然音和声、临时主音化与转调
 例 12 总结了副和弦与具有相同根音的自然音和弦之间的关系。
 
 
+<iframe src="https://musescore.com/user/32728834/scores/23457127/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 12. 自然音三和弦如何通过半音变化产生副属 V7 和弦的总结。
 
@@ -141,44 +170,5 @@ IV. 自然音和声、临时主音化与转调
 ---
 
 ---
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://www.youtube.com/embed/8HRZFpjWx_M" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe src="https://www.youtube.com/embed/s-RfsJ8Gx8k" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6268930/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6268934/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6268967/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6268972/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6270521/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6270540/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6270545/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6270553/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/23457127/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-📋 **章节播放列表**: <https://open.spotify.com/playlist/1YidIHTJIPytHKhTHwX7lv?si=a6c7abee0e514bb6>
-
 
 *原文: [Tonicization](https://viva.pressbooks.pub/openmusictheory/chapter/tonicization) | CC BY-SA*

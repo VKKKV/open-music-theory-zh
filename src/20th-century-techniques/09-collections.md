@@ -36,6 +36,7 @@ VIII. 二十世纪与二十一世纪技法
 - 最后，如果你想象钢琴，注意 C, D, E, F, G, A, B, C（白键）的补集是 G♭, A♭, B♭, D♭, E♭（黑键）。黑键集合同样就是五声音阶。
 
 
+<iframe src="https://musescore.com/user/32728834/scores/5990266/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 1. (a-c) 生成五声音阶集合的三种方式，以及 (d) 五声音阶集合的一种转位。
 
@@ -49,11 +50,17 @@ VIII. 二十世纪与二十一世纪技法
 
 只有两种独特的全音音阶集合：一种包含偶数音级 [0, 2, 4, 6, 8, 10]，另一种包含奇数音级 [1, 3, 5, 7, 9, 11]。如果你需要在分析中区分这两种集合，可以使用缩写 WT0 和 WT1："WT"代表"全音"（whole tone），下标数字表示音高 C（0）或 C♯（1）（例 2）。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/5990278/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 2. 只有两种全音音阶集合。将 WT1 向上移半音将再次得到 WT0。
 
 # 八声音阶集合
 
 八声音阶集合（octatonic collection）由全音和半音的交替构成，总共产生八个不同的音高（例 3）。爵士音乐家称之为减音阶（diminished scale），因为它与减七和弦（fully diminished seventh chord）完美契合。（当然，也可以有其他包含八个不同音高的音阶，但这个被称为八声音阶。）
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5990299/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 3. 只有三种八声音阶集合。
 
@@ -63,9 +70,13 @@ Joan Tower 经常使用八声音阶集合，在她的作品《银梯》（Silver
 
 与这里讨论的其他集合不同，八声音阶集合在二十世纪之前就以一定频率出现，尤其是在俄罗斯。[1]八声音阶集合可以产生几种熟悉的三和弦式和声，如例 4 所示：八个大/小三和弦（以及八个减三和弦，未显示），以及除大七和弦外每种七和弦各四个。然而，没有以五度根音运动（root motion）关联的和弦，因此不可能有主/属运动。相反，有大量以三度进行的根音运动。弗雷德里克·肖邦（Frédéric Chopin）在他的 G 小调叙事曲中在 B♭7 和弦上使用了八声音阶（例 5）。由于所有这些三和弦式和声，它是一种多功能的调式，既可以暗示调性关联，又可以在传统上不被认为密切相关的不同调性之间自由运动。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/5992271/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 4. 八声音阶集合包含许多三和弦式和声。
 
 
+<iframe src="https://musescore.com/user/32728834/scores/5992316/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 5. 肖邦 G 小调叙事曲（1836）中的八声音阶集合。
 
@@ -73,15 +84,24 @@ Joan Tower 经常使用八声音阶集合，在她的作品《银梯》（Silver
 
 六声音阶集合（hexatonic collection）是一个六音集合，由小二度和小三度交替构成。"六声音阶"一词指其六个音符，虽然可能有其他包含六个音符的音阶（例如蓝调音阶/blues scale），但"六声音阶集合"这一名称始终特指这组音符。与八声音阶集合类似，六声音阶集合只能移位四次就会回到相同的音符组（例 6），它们同样以最低半音命名（例如 HEX0,1 是包含 C-C♯ 的六声音阶集合）。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6925856/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 6. 四种可能的六声音阶集合。
 
 同样与八声音阶集合类似，六声音阶集合包含三和弦，但不暗示特定的主音和弦或主调。如例 7 所示，每个集合包含三个大三和弦、三个小三和弦和两个增三和弦。将相距一个半音的两个增三和弦并置是生成六声音阶的另一种方式。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6925866/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 7. 六声音阶集合中存在的三和弦。
 
 # 泛音音阶集合
 
 泛音音阶集合（acoustic collection）基于泛音列（overtone series）的最低音程。这很重要，因为长期以来这些最低音程与音乐协和性的概念之间存在关联。结果是一种类似于大调音阶但带有 $\uparrow\hat{4}$ 和 $\downarrow\hat{7}$ 的调式（例 8）。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5992286/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 8. 泛音音阶（acoustic scale）源自泛音列的音符。
 
@@ -101,6 +121,9 @@ Joan Tower 经常使用八声音阶集合，在她的作品《银梯》（Silver
 5 | (1, 4, 1), (1, 4, 1) | 6 | 3 |
 6 | (2, 2, 1, 1), (2, 2, 1, 1) | 6 | 4 |
 7 | (1, 1, 1, 2, 1), (1, 1, 1 , 2, 1) | 6 | 5 |
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6925817/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 9. 梅西安的有限移位调式。
 
@@ -153,38 +176,5 @@ Joan Tower 经常使用八声音阶集合，在她的作品《银梯》（Silver
 ---
 
 ---
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/5990266/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/5990278/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/5990299/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/5992271/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/5992316/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6925856/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6925866/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/5992286/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6925817/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-📋 **章节播放列表**: <https://open.spotify.com/playlist/2bBag1Sn1QRkWxzoHQrSNC>
-
 
 *原文: [Collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections) | CC BY-SA*

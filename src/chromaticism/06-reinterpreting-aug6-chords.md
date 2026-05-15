@@ -27,7 +27,13 @@ V. 半音化
 
 例 3 展示了从 A 大调到 F 大调的转调，使用 A 大调中的 iv 作为枢轴和弦。例 4 展示了威尔第在他的歌剧《弄臣》中使用的这种技术。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/8935623/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 3. 使用 A 大调中的混合和弦（iv）作为枢轴和弦从 A 大调转调到 F 大调。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8935767/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 4. 使用降 D 大调中的混合和弦（♭VI6）作为枢轴和弦从降 D 大调转调到降 F 大调。
 
@@ -39,9 +45,15 @@ V. 半音化
 
 例 6 展示了在众赞歌设置中使用这种技术的转调。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/8935728/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 6. 使用降 A 大调中的自然音和弦（vi）作为枢轴和弦，将其解释为 C 大调中的混合和弦（iv），从降 A 大调转调到 C 大调。
 
 例 7 展示了勃拉姆斯华尔兹 Op. 39, No. 14 中一个有趣的半音转调。在这里，勃拉姆斯使用 G 大调中的自然音 viio6 和弦作为枢轴转调到 E 大调，将该和弦重新解释为 iio6，即 E 大调新调中的混合和弦。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/9010358/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 7. 使用 G 大调中的自然音和弦（viio6）作为枢轴和弦，将其解释为 E 大调中的混合和弦（iio6），从 G 大调转调到 E 大调。
 
@@ -49,9 +61,15 @@ V. 半音化
 
 有时我们可以使用共同音而非枢轴和弦来转调到远关系调。特别是，与主调相距三度的调性区域很容易使用这种技术转调到达。这些调，即与主调相距三度的半音变化主音，被称为"半音三度"或"半音中音"关系。例如：C 和降 A 大调（共享共同音 C），C 和降 E 大调（共享共同音 G），C 和 A 大调（共享共同音 E），C 和 E 大调（共享共同音 E）。这些关系如例 8 所示。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/9014891/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 8. 半音中音之间共享的共同音。
 
 在歌曲《献祭》中，罗伯特·舒曼正是使用了这种技术从降 A 大调转调到半音中音关系调降 F 大调（为清晰起见写作 E 大调）。在例 9 中，我们可以看到降 A 大调通过第 13 小节的完全终止得到明确确认。我们的耳朵停留在降 A 的到达上，随后它被重新解释为 G♯，即 E 大调中主和弦的三音，这在几个小节后得到确认。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/12664156/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 9. 罗伯特·舒曼，Op. 25 No. 1，《献祭》，第 10-17 小节
 
@@ -59,19 +77,31 @@ V. 半音化
 
 在前面的例子中，降 A 被重新解释为 G♯，后者成为 E 大调中主和弦的三音。等音等价（以及由此等价实现的重新解释）使我们能够为转调到远关系调开辟众多可能性。你可能已经注意到的一个这样的等价是属七和弦与德国增六和弦之间的等价。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/12667216/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 10. 将德国增六和弦重新拼写为属七和弦，反之亦然
 
 例 10 提供了两个例子，说明属七和弦如何被重新解释为德国增六和弦，反之亦然。在例 10a）中，七度向下级进解决到主和弦的三音，而低音跳进到主和弦的根音。随后，降 B 被重新解释为升 A，并向上级进解决。随着低音向下级进，这两个音高解决到 $\hat{5}$，由 E 大调中的终止六四和弦支撑。这种声部进行的差异（七度向下级进解决，增六度向外解决到 $\hat{5}$）是属七和弦与其等音等价的德国增六和弦之间的根本区别。
 
 例 11 展示了这种等音重新解释的实际运用。小提琴独奏者在 C 大调的属七和弦上演奏了一段长华彩。当乐队再次加入时，他们确认了属和声，但当和弦解决时，独奏小提琴中的 F 自然音向上半音移动到 F♯，大提琴和低音提琴中的 G 向下半音解决到 F♯。在这一刻，G-F 小七度被重新解释为 G-E♯ 增六度，解决到 B 小调中的属音。这个和声在接下来的几个小节中得到充实，在第 304 小节确认了一个 F♯ 大调的属和弦。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/12667603/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 11. 贝多芬，D 大调小提琴协奏曲，Op. 61，第一乐章，第 280-304 小节
 
 因此，如果你将属七和弦重新解释为增六和弦，并用它作为枢轴进入新调，所得的转调将是下行半音。反过来，如果你将增六和弦重新解释为属七和弦，所得的转调将是上行半音。例 12 正好展示了这一点。在这里，海顿在 D 大调中花了三个小节在德国增六和弦上（降 B-D-F-升 G），让听众通过使用延长记号来细细品味这个和声。该和弦没有在 D 大调中解决，升 G 被重新解释为降 A，向下半音解决到降 E 大调新主音的三音。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/12743104/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 12. 海顿，D 大调钢琴三重奏，Hob. XV: 16，第一乐章，第 163-73 小节
 
 当然，你可以对任何属七和弦（例如二级属和弦）使用这个技巧，为转调开辟众多可能性。例 13 展示了舒伯特将德国增六和弦重新解释为 V7/IV 和弦，从升 C 大调转调到 A 大调（又一个向半音中音关系调转调的实例！）。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/12680431/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 13. 舒伯特，感伤华尔兹，Op. 50, No. 13 (D.779)，第 18-38 小节
 
@@ -79,13 +109,22 @@ V. 半音化
 
 与属七/德国增六和弦类似，减七和弦可以通过等音重新拼写用作进入远关系调的枢轴和弦。这是因为它的对称性：减七和弦将八度分为四个相等的部分（每个相距小三度），因此在可能的移位方面是有限的。实际上，这意味着减七和弦中的任何音都可以被解释为和弦的根音。在例 14 中，你可以看到一个 B 减七和弦，其每个和弦成员都被解释为根音。虽然你在钢琴上以相同位置弹奏相同的四个键，但这给人枢轴和弦"改变转位"的印象；这是因为新的解释改变了我们对发声低音的听觉感受。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/12743365/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 14. 减七和弦的重新拼写
 
 这种技术的一个经典例子可以在贝多芬的 C 小调钢琴奏鸣曲 Op. 13 中找到，如例 15。在这一段中，贝多芬使用了几个减七和弦。我们听到的第一个表现正常，起着主音化属音的功能。第二次听到减七和弦时，我们听到的是 G 小调中的本地和弦：F♯-A-C-降 E。这个也按预期进行，解决到第一转位的主和弦。我们在接下来的小节中再次听到相同的和弦，但这次贝多芬将和弦拼写为 F♯-A-C-升 D。新的拼写反映了和弦的新功能，升 D 作为 E 小调新调中的导音。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/21147820/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 15. 贝多芬，C 小调钢琴奏鸣曲，Op. 13，第一乐章，第 133-39 小节。
 
 当然，你可以对任何减七和弦使用这种技术，不仅仅是本地调中的自然音减七和弦。在例 16 中，勃拉姆斯建立了一个预期，即第 5 小节的减七和弦将主音化属音。这个预期通过前一小节中听到的扩展主音化建立，在那里我们第一次听到这个减七和弦。在第 4 小节，和弦拼写为 A-C-降 E-降 G，作为降 E 大调中属音的 viio7 发挥功能。在第 5 小节，我们再次听到这个和弦。然而，我们的预期被挫败了，因为和弦解决到了 G 小调第一转位的三和弦。勃拉姆斯通过以不同方式拼写这个和弦（尽管它是等音等价的）给出了线索：A-C-E-升 F。它的拼写考虑了向 G 小调的预期解决，因为升 F 是新调中的导音。G 小调确实成为新的主调，这在几个小节后的一个终止中得到确认。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/21148363/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 16. 勃拉姆斯，Op. 57, No.2
 
@@ -97,44 +136,3 @@ V. 半音化
 
 - 重新拼写、声部写作和分析（PDF）、（Word）、（Musescore）
 ---
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8935623/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8935767/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8935728/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/9010358/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/9014891/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/12664156/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/12667216/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/12667603/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/12743104/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/12680431/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/12743365/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/21147820/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/21148363/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
