@@ -14,7 +14,7 @@ Mark Gotham 和 Kris Shaffer
 
 例1提供了《通往帕纳索斯山》第一部分中第四程式对位法的完整示例（如前所述），标注了对位声部与定旋律之间形成的音程。有关《通往帕纳索斯山》中作为练习、解答和标注的完整示例，请参见《通往帕纳索斯山练习》。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例1。《通往帕纳索斯山》中所有的第四程式练习。
 
@@ -36,7 +36,7 @@ Mark Gotham 和 Kris Shaffer
 - 在定旋律下方使用的主要不协和延留音是2-3。
 - 其他运动如5-6可以使用，但它们不构成不协和延留音，因为延留音不是不协和的。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例2。第四程式延留音类型。
 

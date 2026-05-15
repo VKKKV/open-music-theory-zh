@@ -43,7 +43,7 @@ Samuel Brady; Chelsey Hamm; Megan Lavengood; 和 Kris Shaffer
 
 正如音级和唱名在不同调中相同一样，罗马数字也是如此。例4展示了G大调和G小调自然三和弦的罗马数字作为示例，但无论哪个音高是主音，使用的罗马数字都是相同的。根音的唱名和音级也标注了——注意它们与罗马数字之间的对应关系。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例4. G大调和G小调三和弦的罗马数字。
 
@@ -96,13 +96,13 @@ Samuel Brady; Chelsey Hamm; Megan Lavengood; 和 Kris Shaffer
 - 这仍然是V7，即使和弦的五音缺失。
 - 转位不改变和弦的罗马数字。如果你的老师希望你用数字表示转位，请参见数字低音以获取更多信息。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例7. Louise Reichardt（1811）"Die Wiese"的罗马数字分析。
 
 例8展示了另一个罗马数字分析示例。括号中的音符是装饰音（不是和声的一部分）。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例8. Tommaso Giordani（1785）"Caro mio ben"的罗马数字分析。
 

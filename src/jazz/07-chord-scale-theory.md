@@ -80,7 +80,7 @@ viiø7 | 洛克里斯调式（locrian） | Bø7 = B locrian
 
 例10是 John Coltrane 在《Giant Steps》（1960年）上即兴独奏第一遍的转录，为次中音萨克斯移调到降 B 调。由于快速的节奏和不寻常的调性中心关系，Coltrane 即兴演奏的旋律主要由琶音和音阶片段组成。注意他如何在大和弦上使用伊奥尼亚调式，在属七和弦上使用混合利底亚调式（在第9小节 do 和 te 之间有一个经过音 $\hat{1}$ 和 $\downarrow\hat{7}$），在小和弦上使用多利亚调式。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例10。John Coltrane（1960年）的《Giant Steps》第一遍独奏的转录。
 

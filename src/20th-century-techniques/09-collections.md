@@ -35,7 +35,7 @@ VIII. 二十世纪与二十一世纪技法
 - 如果你把自然音级集合想象成一组纯五度叠加（F, C, G, D, A, E, B），那么五声音阶就是同一集合的较窄形式：C, G, D, A, E。
 - 最后，如果你想象钢琴，注意 C, D, E, F, G, A, B, C（白键）的补集是 G♭, A♭, B♭, D♭, E♭（黑键）。黑键集合同样就是五声音阶。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 1. (a-c) 生成五声音阶集合的三种方式，以及 (d) 五声音阶集合的一种转位。
 
@@ -65,7 +65,7 @@ Joan Tower 经常使用八声音阶集合，在她的作品《银梯》（Silver
 
 例 4. 八声音阶集合包含许多三和弦式和声。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 5. 肖邦 G 小调叙事曲（1836）中的八声音阶集合。
 

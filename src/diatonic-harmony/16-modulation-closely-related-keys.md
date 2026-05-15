@@ -23,7 +23,7 @@ IV. 自然音和声、临时主音化与转调
 
 突兀的转调通常被称为"直接转调"，因为作曲家直接转到新调。这些有时也被称为"乐句转调"，因为它们倾向于出现在乐句的边界处。要在分析中识别直接转调，只需标记新调，然后像例 1 中那样继续你的和声分析。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 1. Joseph Bologne《弦乐四重奏 No. 4, I》中的直接转调，第 15–29 小节（0:27-0:56）。
 
@@ -31,7 +31,7 @@ IV. 自然音和声、临时主音化与转调
 
 作曲家可以使用各种技巧使转调更微妙，但其中更常见的方法之一是使用枢轴和弦（pivot chord）。枢轴和弦是同时属于原调和新调的自然音和弦。例 2 展示了我们使用一个特殊符号来分析枢轴和弦，上面的罗马数字标记该和弦在旧调中的身份，下面的罗马数字标记该和弦在新调中的身份。在例 2 的第 6 小节中，我们可以说"iv7 变成 ii7"。没有一种方法总是能找到枢轴和弦，但一种有帮助的策略是在旧调中分析直到它不再合理，然后退回一个和弦并尝试将其分析为你的枢轴和弦。如果那个和弦也不适合作为枢轴，再退回一个和弦。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 2. Josephine Lang《Der Winter》中的枢轴和弦转调，第 1–12 小节。
 
@@ -99,7 +99,7 @@ IV. 自然音和声、临时主音化与转调
 - 分析者意识到他们在短时间内反复写着 x/ii、y/ii、z/ii。
 - 罗马数字在主调中不再有功能意义，但即将到来的终止仍在主调中。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 8. Joseph Bologne《弦乐四重奏 Op. 4, II》中的扩展临时主音化（0:25-0:39）。
 

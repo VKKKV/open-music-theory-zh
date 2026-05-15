@@ -65,7 +65,7 @@ Chelsey Hamm
 
 除了调式之外，还有其他自然音阶（diatonic）的音符集合。其中之一是五声音阶集合（pentatonic collection）。这个五音集合使用音程序列 ma2–ma2–mi3–ma2–mi3。它恰好对应于钢琴的黑键（例10a），但它可以从任何音符开始（例10b包含一个D五声音阶集合）。另一种理解大调五声音阶集合的方式是通过唱名：do、re、mi、sol、la和do。用音级来表示时，五声音阶的音级通常与大调音阶相关，但省略了 $\hat4$ 和 $\hat7$：$\hat1-\hat2-\hat3-\hat5-\hat6$。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例10. 大调五声音阶集合后接小调五声音阶集合，附唱名。
 
@@ -75,7 +75,7 @@ Chelsey Hamm
 
 半音阶由十二个相邻的半音组成。[1] 例11展示了三个半音阶，第一个从C开始，第二和第三个有调号（A和E♭）：
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例11. 从A和E♭开始的两个半音阶。
 

@@ -114,7 +114,7 @@ II. 对位法与华丽风格图式
 
 为了看这一切在实践中的运用，让我们看例 2：巴赫《平均律钢琴曲集》第一册中的 C 小调赋格（BWV 847）。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 2. 约翰·塞巴斯蒂安·巴赫 C 小调赋格（BWV 847）的呈示部。
 

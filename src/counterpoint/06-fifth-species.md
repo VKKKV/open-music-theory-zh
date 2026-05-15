@@ -31,7 +31,7 @@ Mark Gotham 和 Kris Shaffer
 
 例2给出了《通往帕纳索斯山》第一部分中第五程式对位法的完整示例（如前所述），标注了对位声部与定旋律之间形成的音程。有关《通往帕纳索斯山》中作为练习、解答和标注的完整示例，请参见《通往帕纳索斯山练习》。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例2。《通往帕纳索斯山》中所有的第五程式练习。
 

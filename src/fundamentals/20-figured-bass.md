@@ -34,7 +34,7 @@ Chelsey Hamm
 
 当音乐家将数字低音转化为和弦时——无论是在纸面上还是在演奏中——这被称为实现数字低音。例3展示了几个三和弦的实现过程：
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例3. 一些带有数字低音的三和弦及其实现。
 
@@ -44,7 +44,7 @@ Chelsey Hamm
 
 例4展示了七和弦的完整数字低音，以及相同和声的和弦符号：
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例4. 七和弦的完整数字低音以及和弦符号。
 
@@ -78,7 +78,7 @@ Chelsey Hamm
 
 数字低音中还有另一个常见的符号。水平线表示给定低音上方音符的变化，或和声的变化。例10展示了几个带有水平线的数字的实现：
 
-<span style="width: 0px;overflow: hidden;line-height: 0" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span>
+
 
 例10. 带有水平线的数字的实现。
 
@@ -88,7 +88,7 @@ Chelsey Hamm
 
 罗马数字经常与数字配对使用，以表示和弦转位和某些装饰音。例如，上标数字"6"可以与罗马数字"I"配对，表示主三和弦的第一转位，而数字"$^4_3$"与罗马数字"V"配对时表示第二转位属七和弦。然而，并非所有教师都使用带罗马数字的数字，因此你应该只在教师指示这样做时才使用。例11展示了一些带有数字的罗马数字的实现：
 
-<span style="width: 0px;overflow: hidden;line-height: 0" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span>
+
 
 例11. 带有数字的罗马数字的实现。
 

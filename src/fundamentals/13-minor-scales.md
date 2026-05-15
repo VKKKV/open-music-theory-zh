@@ -68,7 +68,7 @@ Paul McCartney 和 John Lennon 的《Yesterday》（1964年）片段。
 
 小调的音级、唱名（solfège）和音级名称与大调相似，但并不完全相同。例7总结了三种类型的小调音阶，并展示了每种的音级和唱名。注意音级与大调相同。最下面一行显示的唱名音节与大调唱名音节有几处不同，以反映小调的全音和半音模式。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例7. 三种小调音阶的音级和唱名：a) 自然小调；b) 和声小调；c) 旋律小调。
 

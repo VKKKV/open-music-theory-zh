@@ -97,7 +97,7 @@ IV. 自然音和声、临时主音化与转调
 
 临时主音化强属前和弦通常涉及主三和弦成员的半音变化。例如，通过将 te $(\downarrow\hat7)$ 添加到三和弦，主三和弦可以很容易地变成 V7/IV 和弦（例 8）。类似地，通过升高 do ($\hat{1}$) 并添加 te $(\downarrow\hat7)$，主三和弦可以变成 viio7/ii（例 9）。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 8. Joseph Bologne《弦乐四重奏 No. 4, I》中临时主音化 IV，第 41–47 小节（1:18–1:30）。
 
@@ -128,7 +128,7 @@ IV. 自然音和声、临时主音化与转调
 
 例 12 总结了副和弦与具有相同根音的自然音和弦之间的关系。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 12. 自然音三和弦如何通过半音变化产生副属 V7 和弦的总结。
 

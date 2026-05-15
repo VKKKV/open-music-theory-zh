@@ -46,7 +46,7 @@ ASPN 标签对于在钢琴键盘上找到特定音符非常有帮助。示例 3 
 
 示例 4 展示了高音谱号、低音谱号、中音谱号和次中音谱号中常见音符的 ASPN 标签。记住 C4 在每个谱号中的位置可以更快、更轻松地找到 ASPN 标签。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 示例 4. 四种谱号中音符的 ASPN 标签。
 

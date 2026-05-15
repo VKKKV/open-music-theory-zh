@@ -59,7 +59,7 @@ CTo7 可以用来延长任何和弦。从节奏上来说，该和弦会被插入
 
 例7展示了在 Duke Ellington 的《Mood Indigo》中以不同方式显示 CTo7 的方法。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例7。装饰和弦可以是（a）未写入且由演奏者即兴演奏的，（b）写入和弦符号中的，或（c）用括号标记为替代和声的。
 

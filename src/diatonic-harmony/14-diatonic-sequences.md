@@ -28,7 +28,7 @@ IV. 自然音和声、临时主音化与转调
 
 下行五度序列涉及一个两和弦模体按级进下行移调（例 3 和 6）。该序列被称为"下行五度"，因为每个连续的和弦根音下行五度（或上行四度——五度的转位。作曲家这样做是为了避免写出不合理的宽广音域，如果他们持续下行五度就会发生这种情况）。例 3 中的片段恰好使用了所有自然音七和弦，但该序列也可以只用三和弦出现，或者每隔一个和弦带一个七音。有时，作曲家不像例 3 中那样使用所有根位和弦，而是选择交替使用根位和弦和第一转位和弦（例 6d）。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 3. Isaac Albéniz《Catalonia》中的下行五度序列，排练号 34–36。（6:56–7:00）
 
@@ -36,7 +36,7 @@ IV. 自然音和声、临时主音化与转调
 
 下行三度序列涉及一个两和弦模体下行三度移调（因此得名"下行三度"）（例 4 和 7）。有些人选择将此序列称为"Pachelbel"，以他的《D 大调卡农》命名，该作品中包含该序列的一个版本。常见的情况是该序列包含所有根位和弦（如例 7d）或交替使用根位和弦和第一转位和弦（如例 4）。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 4. Amanda Maier《Six Pieces for Violin》第 6 首中的下行三度序列，第 162–169 小节。（2:48–3:01）
 
@@ -46,7 +46,7 @@ IV. 自然音和声、临时主音化与转调
 
 上行 5-6 序列通过在上方声部使用所谓的"5-6 技法"来延续单一和弦，从而模仿一个两和弦模式。这里的 5-6 来自数字低音（figured bass）。它简单地意味着一个声部从低音上方五度移动到低音上方六度。例 5 展示了一个上行 5-6 序列，例 8c 展示了该序列的和声简化，突出了高音声部中的 5-6 运动。注意在例 5 中，当五度移动到六度时，我们可以选择标记一个新和弦。虽然我们倾向于使用较少的罗马数字，但我们也展示了另一种标记所有可能纵向音程的分析。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 5. Antonio Vivaldi《小提琴协奏曲》Op. 8, No. 4, II 中的上行 5-6 序列，第 11–13 小节。（1:15–1:36）
 
@@ -60,15 +60,15 @@ IV. 自然音和声、临时主音化与转调
 
 例 6–8 展示了本章所涵盖的每个序列的这些步骤。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 6. 写作下行五度序列。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 7. 写作下行三度序列。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 8. 写作上行 5-6 序列。
 

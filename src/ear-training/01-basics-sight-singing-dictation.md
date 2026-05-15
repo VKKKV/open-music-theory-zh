@@ -122,7 +122,7 @@
 
 例 13 展示了一条原始记谱的旋律，以三种不同的谱号、复拍子和调号实现。第一个实现是高音谱号 E♭ 大调，拍号分母为 4。第二个实现是次中音谱号 C♯ 大调（与给定调号对比），拍号分母为 8。第三个实现是低音谱号 F 大调，拍号分母为 1。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例 13. 原始记谱中旋律的三种不同实现。
 

@@ -82,7 +82,7 @@ I. 基础
 
 就像在单拍子中一样，因休止符和连线而不发音的拍子用括号书写，不被大声数出，如示例 5 所示。然而，附点节奏不会像在单拍子中那样导致拍子用括号书写，因为在复拍子中附点音符获得一拍。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 示例 5. 不被大声数出的拍子放在括号中。
 
@@ -94,7 +94,7 @@ I. 基础
 
 到目前为止，我们专注于以附点四分音符为拍子的拍子。在以其他拍单位（显示在拍号的下方数字中）的复拍子中，相同的数拍模式用于拍子和细分，但它们对应不同的音符时值（示例 6）。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 示例 6. 用三种不同拍单位书写的相同节奏：(a) 附点四分音符，(b) 附点二分音符，(c) 附点八分音符。
 

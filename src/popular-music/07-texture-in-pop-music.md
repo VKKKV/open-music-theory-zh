@@ -34,7 +34,7 @@ Lavengood（2020年）增加了第五层：
 
 例1。Vulfpeck（2020年）的《3 on E》中功能层的乐器列表。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例2。Vulfpeck（2020年）的《3 on E》中乐器的层图。颜色对应乐器的功能层：新奇层（黄色）、旋律层（红色）、和声填充层（绿色）、功能低音层（蓝色）和显性节拍层（紫色）。
 
@@ -48,7 +48,7 @@ Lavengood（2020年）增加了第五层：
 
 与显性节拍层一样，功能低音层是歌曲律动的重要组成部分，构成了音轨基础的一部分。注意在上面的例2中，功能低音层（用蓝色显示）几乎贯穿整首歌曲，就像显性节拍层一样。与显性节拍层不同的是，功能低音层还承担着重要的音区和调性角色：提供低频并定义歌曲的和声语境。在绝大多数流行歌曲中，功能低音层通过在每个和弦变化的第一拍上演奏和弦根音来同时履行这两个角色（例3）。
 
-<span data-mce-type="bookmark" style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>
+
 
 例3。贝斯吉他作为功能低音层，既为律动提供重要节奏，又在《3 on E》中澄清了和声。经许可使用。
 
