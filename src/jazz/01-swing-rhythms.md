@@ -64,4 +64,16 @@ VI. 爵士乐
 - Jamey Aebersold的爵士节奏练习（.pdf, .docx）。录制一段你演奏这些节奏的录音。选择三种以不同方式创造切分音的节奏，并解释拍子是如何被模糊以创造切分音的（通过延音线？休止？等）。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8514608/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6842546/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 *原文: [Swing Rhythms](https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms) | CC BY-SA*

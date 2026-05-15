@@ -110,4 +110,16 @@
 - 虽然超节拍重新诠释几乎总是发生在叠入处，但并非所有叠入都涉及超节拍重新诠释。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/27040801/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/1DeMz9X1TzaVC0QPuvlwqE>
+
+
 *原文: [Hypermeter (new version)](https://viva.pressbooks.pub/openmusictheory/chapter/hypermeter2) | CC BY-SA*

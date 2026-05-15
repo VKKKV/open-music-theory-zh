@@ -49,4 +49,13 @@ John Peterson
 - 运用乐句模型进行和声分析（.pdf, .docx）。要求学生分析三个短片段。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://www.youtube.com/embed/M-hrHk8Nebc" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
 *原文: [Performing Harmonic Analysis Using the Phrase Model](https://viva.pressbooks.pub/openmusictheory/chapter/performing-harmonic-analysis-using-the-phrase-model) | CC BY-SA*

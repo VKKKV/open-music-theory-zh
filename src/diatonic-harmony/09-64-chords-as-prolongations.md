@@ -74,4 +74,28 @@ $^6_4$在较强拍子上
 - 六四和弦作为延续形式（.pdf, .docx）。要求学生复习之前的概念，从罗马数字书写，从数字低音书写，以及分析片段。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6250658/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6250667/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6250673/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6250679/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6250685/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/75asL58TBVx6tO01Nnu5py>
+
+
 *原文: [6/4 Chords as Forms of Prolongation](https://viva.pressbooks.pub/openmusictheory/chapter/64-chords-as-prolongations) | CC BY-SA*

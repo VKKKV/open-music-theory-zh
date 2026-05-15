@@ -83,6 +83,27 @@ Bryn Hughes 和 Megan Lavengood
 - 十二小节布鲁斯练习（.pdf, .mscz）。要求学生编写基本的和爵士风格的十二小节布鲁斯进行，排列和未排列的，并分析变化的布鲁斯进行。练习播放列表
 - 十二小节布鲁斯练习，不含爵士（.pdf, .mscz）。与作业1相同，但简化了：要求学生编写基本的十二小节布鲁斯进行，排列和未排列的，并识别变化布鲁斯进行中的不寻常和弦。练习播放列表
 
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6595108/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/22734802/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6610362/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6595125/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/4l9w7lMJvED841d0dBt58N>
+
+
 ## 许可
 ## 许可
 

@@ -170,4 +170,31 @@
 - Gary S. Karpinski. 2021.Manual for Ear Training and Sight Singing. New York: W.W. Norton.↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://www.youtube.com/embed/OIe4tB1vYVs" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8455859/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8455769/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8455748/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8455691/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8455655/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/2IJiGRYUU2cAnFh3oLamar>
+
+
 *原文: [The Basics of Sight-Singing and Dictation](https://viva.pressbooks.pub/openmusictheory/chapter/the-basics-of-sight-singing-and-dictation) | CC BY-SA*

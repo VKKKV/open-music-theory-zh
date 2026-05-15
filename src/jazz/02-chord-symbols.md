@@ -130,4 +130,13 @@ VI. 爵士乐
 - 虽然最高扩展下方的所有扩展都被隐含，但它们不一定会被演奏。事实上，通常并非所有可能的音符都被演奏，最高扩展和七度之间的一些扩展被省略。记谱的、理解的和实际演奏的之间的差异在爵士排列章节中进一步讨论。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/23335099/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 *原文: [Chord Symbols](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols) | CC BY-SA*

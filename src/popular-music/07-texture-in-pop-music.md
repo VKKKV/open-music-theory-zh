@@ -99,4 +99,16 @@ Moore 说和声填充层"填充了低音层和[旋律]层之间的'音区'空间
 - 非西方或民间乐器（"世界"乐器）经常被归入新奇层，有时会产生问题性效果，如 Lavengood（2020年）所述。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/13130983/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/3ReOjLA3KXFW5wSMRdpwzb>
+
+
 *原文: [Texture in Pop Music](https://viva.pressbooks.pub/openmusictheory/chapter/texture-in-pop-music) | CC BY-SA*

@@ -83,4 +83,25 @@ ii–V–I 一章将 ii–V–I 图式可视化在由 Michael McClimon（2017年
 - 替代（.pdf, .mscz）。要求学生在 ii–V–I 进行和 Cole Porter 的《Let's Do It》的一个乐句中替代和弦。练习播放列表
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5719601/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5719610/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5721622/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5721771/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/18agWVDue3Rii0KPuTzfnX>
+
+
 *原文: [Substitutions](https://viva.pressbooks.pub/openmusictheory/chapter/substitutions) | CC BY-SA*

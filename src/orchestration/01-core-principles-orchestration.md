@@ -118,6 +118,18 @@ by openmusictheory
 
 - 更多教科书示例，参见 Adler (2002, 253); Piston (1955, 396).↵
 
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/11095075/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/11093566/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 ## 许可
 ## 许可
 

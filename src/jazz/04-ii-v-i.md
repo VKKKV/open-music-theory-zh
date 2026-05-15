@@ -78,4 +78,25 @@ McClimon 的 ii–V 空间将五度相关调的 ii–V 进行联系起来。
 - 使用 ii–V–I 作曲练习（.pdf, .mscz）。这是比波普作曲的预备作业。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8519939/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5709329/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8519966/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5711118/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/2iN1vnrAORJOoXfMkZEoy6>
+
+
 *原文: [ii–V–I](https://viva.pressbooks.pub/openmusictheory/chapter/ii-v-i) | CC BY-SA*

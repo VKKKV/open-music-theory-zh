@@ -43,4 +43,13 @@ VII. 流行音乐
 - 识别图式（.pdf, .docx）。要求学生从广泛的可能性中识别流行歌曲中的图式，包括基于蓝调的图式、四和弦图式、帕夫图式和古典图式。练习播放列表
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/3sngqJ1o4LUpYHdsyoZppq>
+
+
 *原文: [Introduction to Harmonic Schemas in Pop Music](https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-pop-schemas) | CC BY-SA*

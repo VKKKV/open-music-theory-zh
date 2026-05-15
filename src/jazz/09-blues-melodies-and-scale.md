@@ -53,6 +53,24 @@ b | And if it keeps on raining, I will be Gulf Coast bound.
 - 用布鲁斯音阶即兴演奏（.pdf, .mscz）。视频作业。要求学生配对并创建呼应即兴演奏的视频。伴奏音轨可在此获取。
 - 布鲁斯作曲。要求学生综合关于布鲁斯和声和布鲁斯旋律的信息。记谱选项（.pdf, .docx）音频选项（.pdf, .docx）
 
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5742815/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8515004/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8515049/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/3UXBDRikR549FKxkyU0EVO>
+
+
 ## 许可
 ## 许可
 

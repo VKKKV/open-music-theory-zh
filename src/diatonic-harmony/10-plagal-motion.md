@@ -46,4 +46,22 @@ John Peterson
 2. 写出完整的高音声部，使其形成与低音良好互动的平稳旋律。在属功能和弦上方的高音声部选择活动音，并记住你不必总是从左向右书写。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6252227/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6252232/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6252238/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/6UA0oza0ErEfPZWRnIWLIE>
+
+
 *原文: [Plagal Motion as a Form of Prolongation](https://viva.pressbooks.pub/openmusictheory/chapter/plagal-motion) | CC BY-SA*

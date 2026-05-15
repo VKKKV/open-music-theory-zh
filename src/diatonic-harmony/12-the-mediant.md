@@ -41,4 +41,22 @@ IV. 自然音和声、临时主音化与转调
 - 低音中的 Mi $(\hat3)$（.pdf, .docx）。要求学生实现无数字低音、进行分析，并完成带分析的听写。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6258824/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6258834/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6258844/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/2XNToKwJashIJyeDofCHZS>
+
+
 *原文: [The Mediant Harmonizing Mi (3̂) in the Bass](https://viva.pressbooks.pub/openmusictheory/chapter/the-mediant) | CC BY-SA*

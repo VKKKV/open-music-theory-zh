@@ -76,4 +76,31 @@ ti（$\hat{7}$） | do（$\hat{1}$）
 - 这是我们首次从佛罗里达州立大学的南希·罗杰斯（Nancy Rogers）那里听到的术语。有些人将这种现象描述为"受挫的导音"，但我们认为"导音下行"更好地描述了这一技巧。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6224806/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6224809/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6224872/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6224803/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6224804/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6224814/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/4YIRSp3wJYj0WGtEVfvYoq>
+
+
 *原文: [Strengthening Endings with V⁷](https://viva.pressbooks.pub/openmusictheory/chapter/strengthening-endings-with-v7) | CC BY-SA*

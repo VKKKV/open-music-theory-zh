@@ -100,6 +100,15 @@ Mark Gotham
 
 - 即将推出！
 
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/24655597/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 ## 许可
 
 Open Music Theory

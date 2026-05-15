@@ -69,4 +69,28 @@ vii∅7 存在 viio7 所没有的声部进行挑战，因为它在 re$(\hat{2})$
 2. 写出完整的高音声部，使其形成与低音良好互动的平稳旋律。在属功能和弦上方的高音声部选择活动音，并记住你不必总是从左向右书写。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6245135/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6245147/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6245159/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6245161/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6245166/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/7umAvpMmDigc7LFkiUVJ87>
+
+
 *原文: [Prolongation at Phrase Beginnings using the Leading-Tone Chord](https://viva.pressbooks.pub/openmusictheory/chapter/leading-tone-chord) | CC BY-SA*

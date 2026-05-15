@@ -70,4 +70,25 @@ XI. 节奏与节拍
 - 有一些有趣的案例，如萨拉班德舞曲，一种巴洛克舞曲风格，熟悉该风格的音乐家知道要在第2拍上比第1拍施加更强的重音。但这是一个特殊的风格例外；否则，我们强烈将下拍与节拍重音关联。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8422604/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8891598/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/11018989/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/11019235/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8920656/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 *原文: [Hypermeter](https://viva.pressbooks.pub/openmusictheory/chapter/hypermeter) | CC BY-SA*

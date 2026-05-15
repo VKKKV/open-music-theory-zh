@@ -119,4 +119,13 @@ Hepokoski和Darcy的本质呈示终止（Essential Expositional Closure，EEC）
 - Maria Hester Park，奏鸣曲，Op. 7，第一乐章 Allegro Spirito（.pdf, .docx）。访问乐谱和音频。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8412926/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 *原文: [Sonata Form](https://viva.pressbooks.pub/openmusictheory/chapter/sonata-form) | CC BY-SA*

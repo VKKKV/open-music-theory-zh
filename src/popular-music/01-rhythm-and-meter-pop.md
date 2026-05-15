@@ -65,6 +65,27 @@ Bryn Hughes; Megan Lavengood; and Kris Shaffer
 
 - 记录节奏练习（.pdf, .mscz）。要求学生转录和识别碧昂斯的"Sorry"（2016年）中的直接切分以及特雷西略节奏。练习播放列表
 
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/5846453/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8674701/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8674494/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8515040/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/4uWlvIzyOiZiy9ny60jgGe>
+
+
 ## 许可
 ## 许可
 
