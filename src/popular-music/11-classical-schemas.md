@@ -14,7 +14,7 @@ VII. 流行音乐
 
 "悲歌"进行之所以得名，是因为在早期古典音乐中，这个和弦进行（几乎总是在小调中）被用作哀歌的固定低音（ground bass）。例子包括 Henry Purcell 歌剧《Dido and Aeneas》中的《Dido's Lament》和 J.S. Bach 的《B 小调弥撒》中的"Crucifixus"。有关这些古典案例的更多信息，请参见"固定低音"一章。
 
-Dire Straits 的《Sultans of Swing》提供了流行/摇滚背景中悲歌的一个经典例子（例1）。乐句沿小调四音列 do-te-le-sol（$\hat1-\downarrow\hat7-\downarrow\hat6-\hat5}$）下行，并以自然音三和弦配和声：I–♭VII–♭VI–V。中间两个和弦是切分的且时值较短，以便在乐句末尾为属和弦添加七音，这提供了一个回转以重复和弦进行。
+Dire Straits 的《Sultans of Swing》提供了流行/摇滚背景中悲歌的一个经典例子（例1）。乐句沿小调四音列 do-te-le-sol（$\hat1-\downarrow\hat7-\downarrow\hat6-\hat5$）下行，并以自然音三和弦配和声：I–♭VII–♭VI–V。中间两个和弦是切分的且时值较短，以便在乐句末尾为属和弦添加七音，这提供了一个回转以重复和弦进行。
 
 例1。Dire Straits，《Sultans of Swing》（1978年）
 
