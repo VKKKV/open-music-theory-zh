@@ -1,0 +1,11 @@
+[book]
+title = "Open Music Theory (OMT2) 中文翻译"
+authors = ["Mark Gotham, Kyle Gullings, Chelsey Hamm, Bryn Hughes, Brian Jarvis, Megan Lavengood, John Peterson"]
+language = "zh"
+description = "开源在线音乐理论教材中文翻译"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+mathjax-support = true
+git-repository-url = "https://github.com/VKKKV/open-music-theory-zh"
