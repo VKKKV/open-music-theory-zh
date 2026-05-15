@@ -93,4 +93,13 @@ Bon Jovi 的《Livin' on a Prayer》遵循典型的主歌-副歌曲式（例2）
 - 阅读指南：Summach（.pdf, .docx）。一系列问题，帮助学生理解 Jay Summach 的《The Structure, Function, and Genesis of the Prechorus》（2011年）的最重要要点。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/3sngqJ1o4LUpYHdsyoZppq>
+
+
 *原文: [Verse-Chorus Form](https://viva.pressbooks.pub/openmusictheory/chapter/verse-chorus-form) | CC BY-SA*

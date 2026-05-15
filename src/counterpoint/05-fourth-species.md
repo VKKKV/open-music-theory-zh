@@ -83,14 +83,18 @@ Mark Gotham 和 Kris Shaffer
 ---
 
 ## 🎵 音频与互动示例
+<iframe src="https://player.vimeo.com/video/57389373" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_FOS1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://player.vimeo.com/video/58488043" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_FOS1>*
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_FOS2/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/8488241/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_FOS2>*
+*<https://musescore.com/user/32728834/scores/24640900>*
+
+<iframe src="https://musescore.com/user/32728834/scores/24640900/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/24640900>*
 
 
 *原文: [Fourth-Species Counterpoint](https://viva.pressbooks.pub/openmusictheory/chapter/fourth-species-counterpoint) | CC BY-SA*

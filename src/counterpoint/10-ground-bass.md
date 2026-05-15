@@ -105,9 +105,9 @@ Purcell Sonata in G Minor Z807（本页示例） | .mscz,.mxl | .mscz,.mxl
 
 ## 🎵 音频与互动示例
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_GB1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/8559071/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_GB1>*
+*<https://musescore.com/user/32728834/scores/8559071>*
 
 
 *原文: [Ground Bass](https://viva.pressbooks.pub/openmusictheory/chapter/ground-bass) | CC BY-SA*

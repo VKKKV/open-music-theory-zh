@@ -238,4 +238,31 @@ Maxwell Tfirn的《Unstable Revolutions》（2019年）。
 - 无说明分析图形乐谱（彩色）（.pdf, .docx）。要求学生观察一个没有说明的图形乐谱并回答相关问题。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://www.youtube.com/embed/ZcOtQNR8lzE" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/9-Nbi3Sozdc" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/seQsmYSnQn8" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/AWVUp12XPpU" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/VOmQMOprB_E" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/0agEwEElFys" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/2tL5igtk2c8" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
 *原文: [Graphic Notation and Scores](https://viva.pressbooks.pub/openmusictheory/chapter/graphic-notation-and-scores) | CC BY-SA*

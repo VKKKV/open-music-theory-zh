@@ -185,4 +185,16 @@ S、N和H变换。
 - Robert Cook被认为是将此称为H变换的人。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://open.spotify.com/embed/track/3m0nPszSygkCSHcuHthkK6" width="100%" height="80" frameborder="0" allow="encrypted-media"></iframe>
+
+
+<iframe src="https://open.spotify.com/embed/track/421Gp1eSmOIcD6alTWowFR" width="100%" height="80" frameborder="0" allow="encrypted-media"></iframe>
+
+
 *原文: [Neo-Riemannian Triadic Progressions](https://viva.pressbooks.pub/openmusictheory/chapter/neo-riemannian-triadic-progressions) | CC BY-SA*

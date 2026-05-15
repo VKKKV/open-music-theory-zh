@@ -102,9 +102,9 @@ by
 
 ## 🎵 音频与互动示例
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_16C1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/8877717/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_16C1>*
+*<https://musescore.com/user/32728834/scores/8877717>*
 
 
 *原文: [16th-Century Contrapuntal Style](https://viva.pressbooks.pub/openmusictheory/chapter/16th-century-contrapuntal-style) | CC BY-SA*

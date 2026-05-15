@@ -90,4 +90,25 @@ III. 曲式
 - 有时人们会混淆"乐句"和"分句"这两个术语。通常当人们说"分句"时，他们指的是一个片段可能被塑造的方式（在哪里推动和拉伸时间，在哪里以及如何改变力度层次等），他们可能指也可能不指一个实际的乐句（以终止结束的完整思想）。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://www.youtube.com/embed/VVgjj_7o8MM" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/0mRzL4OaXXU" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/vPGPRc6y_0s" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/I7UfEZXIDcI" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://www.youtube.com/embed/8z6cr_C3q2A" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
 *原文: [Foundational Concepts for Phrase-Level Forms](https://viva.pressbooks.pub/openmusictheory/chapter/foundational-concepts) | CC BY-SA*

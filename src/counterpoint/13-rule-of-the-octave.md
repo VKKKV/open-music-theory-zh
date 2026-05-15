@@ -111,17 +111,17 @@ by FourScoreAndMore
 
 ## 🎵 音频与互动示例
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_RO1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/5350123/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_RO1>*
+*<https://musescore.com/user/32728834/scores/5350126>*
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_RO2/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/5350121/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_RO2>*
+*<https://musescore.com/user/32728834/scores/5350126>*
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_RO3/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/5350121/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_RO3>*
+*<https://musescore.com/user/32728834/scores/5350121>*
 
 
 *原文: [Galant schemas – The Rule of the Octave and Harmonizing the Scale with Sequences](https://viva.pressbooks.pub/openmusictheory/chapter/rule-of-the-octave) | CC BY-SA*

@@ -248,6 +248,18 @@ Mark Gotham
 
 - 例如，参见Rimsky-Korsakov在其标志性的《管弦乐法原理》（1891年）中的序言。↵
 
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://open.spotify.com/embed/track/6OirJLlESaC0kGUdVzOQIk" width="100%" height="80" frameborder="0" allow="encrypted-media"></iframe>
+
+
+<iframe src="https://open.spotify.com/embed/track/0ivNJZGwjRiMFnhnRuN6vv" width="100%" height="80" frameborder="0" allow="encrypted-media"></iframe>
+
+
 ## 许可
 
 Open Music Theory

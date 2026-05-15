@@ -121,4 +121,22 @@ B段（对比段落）因二段式的类型而异（例2）。两种形式还都
 - Green↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8427260/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8427282/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8427305/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8427269/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 *原文: [Binary Form](https://viva.pressbooks.pub/openmusictheory/chapter/binary-form) | CC BY-SA*

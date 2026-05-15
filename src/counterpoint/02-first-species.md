@@ -81,13 +81,13 @@ Mark Gotham 和 Kris Shaffer
 
 ## 🎵 音频与互动示例
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_FS1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/8488049/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_FS1>*
+*<https://musescore.com/user/32728834/scores/8513480>*
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_FS2/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/8513480/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_FS2>*
+*<https://musescore.com/user/32728834/scores/8513480>*
 
 
 *原文: [First-Species Counterpoint](https://viva.pressbooks.pub/openmusictheory/chapter/first-species-counterpoint/) | CC BY-SA*

@@ -45,13 +45,13 @@ Mark Gotham 和 Kris Shaffer
 
 ## 🎵 音频与互动示例
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_FIS1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/26283736/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_FIS1>*
+*<https://musescore.com/user/32728834/scores/8488244>*
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_FIS2/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/8488244/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_FIS2>*
+*<https://musescore.com/user/32728834/scores/8488244>*
 
 
 *原文: [Fifth-Species Counterpoint](https://viva.pressbooks.pub/openmusictheory/chapter/fifth-species-counterpoint) | CC BY-SA*

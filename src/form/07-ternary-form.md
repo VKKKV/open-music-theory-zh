@@ -71,4 +71,16 @@ III. 曲式
 - 约瑟芬·朗——Traumbild, Op. 28, no. 1（.pdf, .docx）。访问乐谱和音频。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8427521/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8427524/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+
 *原文: [Ternary Form](https://viva.pressbooks.pub/openmusictheory/chapter/ternary-form) | CC BY-SA*

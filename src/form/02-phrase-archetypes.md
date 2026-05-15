@@ -183,4 +183,10 @@ III. 曲式
 - 一些分析家使用术语"平行乐段"（parallel period）来描述后句与前句开始方式相同的乐段，使用"对比乐段"（contrasting period）来描述后句与前句开始方式不同的乐段。然而，由于对比乐段非常罕见，本书简单使用"乐段"来指代平行乐段，仅在罕见的对比乐段情况下指定类型。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+
 *原文: [The Phrase, Archetypes, and Unique Forms](https://viva.pressbooks.pub/openmusictheory/chapter/phrase-archetypes-unique-forms) | CC BY-SA*

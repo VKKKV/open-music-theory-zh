@@ -115,9 +115,9 @@ Gjerdingen, Robert O. 2007. Music in the Galant Style. Oxford University Press.
 
 ## 🎵 音频与互动示例
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_GALANT1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/5350117/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_GALANT1>*
+*<https://musescore.com/user/32728834/scores/5350117>*
 
 
 *原文: [Galant Schemas](https://viva.pressbooks.pub/openmusictheory/chapter/galant-schemas) | CC BY-SA*

@@ -104,14 +104,16 @@ Mark Gotham 和 Kris Shaffer
 ---
 
 ## 🎵 音频与互动示例
+<iframe src="https://player.vimeo.com/video/57085974" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_SS1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_SS1>*
+<iframe src="https://musescore.com/user/32728834/scores/8488187/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_SS2/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+*<https://musescore.com/user/32728834/scores/8488187>*
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_SS2>*
+<iframe src="https://musescore.com/user/32728834/scores/8488187/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8488187>*
 
 
 *原文: [Second-Species Counterpoint](https://viva.pressbooks.pub/openmusictheory/chapter/second-species-counterpoint) | CC BY-SA*

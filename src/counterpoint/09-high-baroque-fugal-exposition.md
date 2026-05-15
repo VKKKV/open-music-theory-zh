@@ -145,9 +145,9 @@ II. 对位法与华丽风格图式
 
 ## 🎵 音频与互动示例
 
-<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_FUGUE1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://musescore.com/user/32728834/scores/8534750/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/SCORE_ID_FUGUE1>*
+*<https://musescore.com/user/32728834/scores/8534750>*
 
 
 *原文: [High Baroque Fugal Exposition](https://viva.pressbooks.pub/openmusictheory/chapter/high-baroque-fugal-exposition) | CC BY-SA*
