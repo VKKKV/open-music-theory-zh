@@ -152,6 +152,33 @@ I. 基础
 - 复拍音符、休止符和小节线 (.pdf,.docx)
 - 复拍节奏记谱的重新符杠 (.pdf,.mscz)
 
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/8394558/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8394558>*
+
+<iframe src="https://musescore.com/user/32728834/scores/8394447/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8394447>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6296091/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6296091>*
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/38gepJH1X5U19PF3Vsudgv>
+
+
+**互动练习**（需网络，原站加载）:
+
+- Compound Time Signature Matching
+
+- Fill the Measure
+
+
 ## 许可
 
 Open Music Theory Copyright © 2023 by Mark Gotham; Kyle Gullings; Chelsey Hamm; Bryn Hughes; Brian Jarvis; Megan Lavengood; and John Peterson 采用知识共享署名-相同方式共享 4.0 国际许可协议，另有说明的除外。

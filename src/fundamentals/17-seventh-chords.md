@@ -191,4 +191,27 @@ Chelsey Hamm
 - 这些和弦符号反映了Open Music Theory中使用的符号，但你在学习中可能会遇到其他符号。有关这些变体的更详细解释，请参见和弦符号。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/6843767/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6843767>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6850641/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6850641>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6843772/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6843772>*
+
+
+**互动练习**（需网络，原站加载）:
+
+- Seventh Chord Identification
+
+
 *原文: [Seventh Chords](https://viva.pressbooks.pub/openmusictheory/chapter/seventh-chords) | CC BY-SA*

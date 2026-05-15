@@ -118,4 +118,22 @@ Chelsey Hamm
 - Peter Williams 和 David Ledbetter, "Figured Bass," Grove Music Online, https://doi.org/10.1093/gmo/9781561592630.article.09623.↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/6839460/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6839460>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6839461/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6839461>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6877976/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6877976>*
+
+
 *原文: [Figured Bass](https://viva.pressbooks.pub/openmusictheory/chapter/figured-bass) | CC BY-SA*

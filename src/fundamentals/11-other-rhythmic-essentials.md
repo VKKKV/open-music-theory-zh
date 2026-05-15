@@ -96,6 +96,35 @@ LMFAO 的"Shots"（2009 年）副歌的片段。
 
 - 三连音和二连音、超节拍和切分 (.pdf,.docx) 工作表播放列表
 
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://www.youtube.com/embed/XNtTEibFvlQ" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/8gd_ohoPzYc" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://musescore.com/user/32728834/scores/8422541/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8422541>*
+
+<iframe src="https://musescore.com/user/32728834/scores/8422571/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8422571>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6296167/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6296167>*
+
+
+**互动练习**（需网络，原站加载）:
+
+- Duplet, Triplet, Syncopation Term Identification
+
+- Fill the Measure
+
+
 ## 许可
 
 Open Music Theory Copyright © 2023 by Mark Gotham; Kyle Gullings; Chelsey Hamm; Bryn Hughes; Brian Jarvis; Megan Lavengood; and John Peterson 采用知识共享署名-相同方式共享 4.0 国际许可协议，另有说明的除外。

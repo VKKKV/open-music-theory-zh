@@ -140,4 +140,14 @@ II. 对位法与华丽风格图式
 对于第 3 和第 4 项，你可能希望将你的答案与巴赫的进行比较。注意巴赫的答案不是唯一可能的，所以不要期望写出完全相同的音乐。还要注意不是每首赋格都有正规的可倒影对题。这里有 .mscz 和 .pdf 格式的直接下载。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_FUGUE1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/SCORE_ID_FUGUE1>*
+
+
 *原文: [High Baroque Fugal Exposition](https://viva.pressbooks.pub/openmusictheory/chapter/high-baroque-fugal-exposition) | CC BY-SA*

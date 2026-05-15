@@ -101,4 +101,12 @@ Samuel Brady
 - 辨认织体 (.pdf, .docx) 工作表播放列表
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/2SrfdBPvvg7d81oGjr98Cq>
+
+
 *原文: [Texture](https://viva.pressbooks.pub/openmusictheory/chapter/texture) | CC BY-SA*

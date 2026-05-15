@@ -100,4 +100,18 @@ Mark Gotham 和 Kris Shaffer
 - 此处使用的术语要么是标准术语，要么取自Salzer & Schachter的《对位法在作曲中的应用》。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_SS1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/SCORE_ID_SS1>*
+
+<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_SS2/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/SCORE_ID_SS2>*
+
+
 *原文: [Second-Species Counterpoint](https://viva.pressbooks.pub/openmusictheory/chapter/second-species-counterpoint) | CC BY-SA*

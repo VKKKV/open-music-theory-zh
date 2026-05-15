@@ -80,6 +80,21 @@ ASPN 标签对于在钢琴键盘上找到特定音符非常有帮助。示例 3 
 
 - 你可能想知道为什么八度数字随音高 C 而变化，而不是随 A（字母表的开头）变化。关于这一点，Robert Young 写道："出于音乐目的，已形成将音调 C 视为计算完整八度的起点的惯例。虽然这并非普遍适用，逻辑上可能指向 A 作为起点，但通常用法已确定为 C。" 见 Robert W. Young, "Terminology for Logarithmic Frequency Units," Journal of the Acoustical Society of America 11 (1939): 135.↵
 
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/8395191/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8395191>*
+
+
+**互动练习**（需网络，原站加载）:
+
+- ASN Note Identification
+
+
 ## 许可
 ## 许可
 

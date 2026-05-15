@@ -126,4 +126,17 @@ Chelsey Hamm
 - 学生或教师用空白键盘 (.pdf)
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://www.youtube.com/embed/93k3JolSjF8" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
+**互动练习**（需网络，原站加载）:
+
+- Label the White Keys Drag and Drop
+
+
 *原文: [键盘与大谱表](https://viva.pressbooks.pub/openmusictheory/chapter/the-keyboard-and-grand-staff) | CC BY-SA*

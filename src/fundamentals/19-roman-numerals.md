@@ -155,4 +155,18 @@ Samuel Brady; Chelsey Hamm; Megan Lavengood; 和 Kris Shaffer
 - VII和弦，特别是VII7的另一种分析是作为III调中的副属和弦（V/III）。在副属和弦中阅读更多关于主音化和副属和弦的内容。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/8514239/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8514239>*
+
+<iframe src="https://musescore.com/user/32728834/scores/8514287/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8514287>*
+
+
 *原文: [Roman Numerals](https://viva.pressbooks.pub/openmusictheory/chapter/roman-numerals) | CC BY-SA*

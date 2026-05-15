@@ -79,4 +79,18 @@ Mark Gotham 和 Kris Shaffer
 - 完整的福克斯练习集，请参见《通往帕纳索斯山》章节。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_FOS1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/SCORE_ID_FOS1>*
+
+<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_FOS2/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/SCORE_ID_FOS2>*
+
+
 *原文: [Fourth-Species Counterpoint](https://viva.pressbooks.pub/openmusictheory/chapter/fourth-species-counterpoint) | CC BY-SA*

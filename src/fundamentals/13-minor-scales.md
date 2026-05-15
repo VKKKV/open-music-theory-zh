@@ -216,4 +216,37 @@ A、D、G、C、F、B♭、E♭和A♭小调的调号。
 - 1700年至1900年间的绝大多数西方古典音乐作品都是大调或小调。但在这个时间段和文化背景之外，你还应该考虑作品是否可能是教会调式（diatonic mode）。这将扩大调号所指示的可能主音的数量。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://www.youtube.com/embed/TQemQRL_YVQ" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://musescore.com/user/32728834/scores/6825960/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6825960>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6826003/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6826003>*
+
+<iframe src="https://musescore.com/user/32728834/scores/8383293/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8383293>*
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/2wylP85ygXkX1tWtUPqcgm>
+
+
+**互动练习**（需网络，原站加载）:
+
+- Minor Scale Whole Step-Half Step
+
+- Spelled Natural Minor Scale
+
+- Minor Scale Solfege Matching
+
+- Minor Key Signature
+
+
 *原文: [Minor Scales, Scale Degrees, and Key Signatures](https://viva.pressbooks.pub/openmusictheory/chapter/minor-scales) | CC BY-SA*

@@ -208,6 +208,45 @@ I. 基础
 - 简单音符、休止符和小节线 (.pdf,.docx)。要求学生插入正确的音符、休止符和小节线以完成节奏示例。
 - 单拍子中的节奏记谱 (.pdf,.mscz)。要求学生纠正不反映基础单拍子的记谱。
 
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://www.youtube.com/embed/u9jGGiqjwf4" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/TvWWXv59apY" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/7b9OMt6D1TA" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/WDZJPJV__bQ" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://musescore.com/user/32728834/scores/6293132/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6293132>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6296048/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6296048>*
+
+<iframe src="https://musescore.com/user/32728834/scores/8422379/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8422379>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6284975/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6284975>*
+
+📋 **章节播放列表**: <https://open.spotify.com/playlist/7wFqS1zSEiUQ6YHdhghMB1>
+
+
+**互动练习**（需网络，原站加载）:
+
+- Simple Meter Identification
+
+- Simple Time Signature Matching
+
+
 ## 许可
 
 Open Music Theory Copyright © 2023 by Mark Gotham; Kyle Gullings; Chelsey Hamm; Bryn Hughes; Brian Jarvis; Megan Lavengood; and John Peterson 采用知识共享署名-相同方式共享 4.0 国际许可协议，另有说明的除外。

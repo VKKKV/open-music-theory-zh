@@ -106,4 +106,22 @@ by FourScoreAndMore
 - 无论是看着乐谱还是（当你准备好了的话）凭记忆，尝试对这些基本模式进行装饰。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_RO1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/SCORE_ID_RO1>*
+
+<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_RO2/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/SCORE_ID_RO2>*
+
+<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_RO3/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/SCORE_ID_RO3>*
+
+
 *原文: [Galant schemas – The Rule of the Octave and Harmonizing the Scale with Sequences](https://viva.pressbooks.pub/openmusictheory/chapter/rule-of-the-octave) | CC BY-SA*

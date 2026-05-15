@@ -290,4 +290,31 @@ P1, P8, P5 | 减音程
 - 减和增音程B（.pdf, .mscz）。要求学生仅书写和识别减和增音程。
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/6836733/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6836733>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6836745/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6836745>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6836757/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6836757>*
+
+
+**互动练习**（需网络，原站加载）:
+
+- Interval Size Identification
+
+- Perfect/Major/Minor Intervals Practice
+
+- Augmented/Diminished Interval
+
+
 *原文: [Intervals](https://viva.pressbooks.pub/openmusictheory/chapter/intervals) | CC BY-SA*

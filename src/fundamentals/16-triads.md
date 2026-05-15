@@ -184,4 +184,31 @@ Chelsey Hamm
 - 你可能会在其他语境中看到其他缩写（更详尽的列表见和弦符号章节）。↵
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/6839451/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6839451>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6839452/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6839452>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6839453/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6839453>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6876492/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6876492>*
+
+
+**互动练习**（需网络，原站加载）:
+
+- Triad Identification
+
+
 *原文: [Triads](https://viva.pressbooks.pub/openmusictheory/chapter/triads) | CC BY-SA*

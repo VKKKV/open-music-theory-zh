@@ -100,4 +100,14 @@ Purcell Sonata in G Minor Z807（本页示例） | .mscz,.mxl | .mscz,.mxl
 - 最后，将你最好的想法组合成一部平衡织体和和声趣味并描绘整体轨迹的完整作品。为什么不试试一首有六次固定低音迭代的作品，其中第一次和最后一次简单且相似？
 
 ---
+
+---
+
+## 🎵 音频与互动示例
+
+<iframe src="https://musescore.com/user/32728834/scores/SCORE_ID_GB1/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/SCORE_ID_GB1>*
+
+
 *原文: [Ground Bass](https://viva.pressbooks.pub/openmusictheory/chapter/ground-bass) | CC BY-SA*
