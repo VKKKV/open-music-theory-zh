@@ -23,7 +23,7 @@ Samuel Brady; Chelsey Hamm; Megan Lavengood; 和 Kris Shaffer
 
 例1. 音级和罗马数字。
 
-![一行手写罗马数字后接一行打印罗马数字，均为大写。](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Misc-47-scaled-e1658431640933-300x108.jpg)
+[![一行手写罗马数字后接一行打印罗马数字，均为大写。](../Graphics/app/uploads/sites/12/2020/05/Misc-47-scaled-e1658431640933-300x108.jpg)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Misc-47-scaled-e1658431640933-300x108.jpg)
 例2.
 手写罗马数字和打印罗马数字的区别。
 

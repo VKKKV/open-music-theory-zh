@@ -41,11 +41,11 @@ VIII. 二十世纪与二十一世纪技法
 
 思考以下三个片段，它们来自贝拉·巴托克（Béla Bartók）的《来自巴厘岛》（From the Island of Bali）。整个过程中是否使用了同一调式，还是发生了变化？哪些音高在调式之内/之外？是否出现了调式结束音？是否有两个调式组合的时刻？图片下方有一些建议，所以在向下滚动比较之前先决定你的看法。
 
-![](https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Bartok1.png)
+[![](../Graphics/app/uploads/sites/12/2019/06/Bartok1.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Bartok1.png)
 巴托克《来自巴厘岛》：摘录 1
-![](https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Bartok2.png)
+[![](../Graphics/app/uploads/sites/12/2019/06/Bartok2.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Bartok2.png)
 巴托克《来自巴厘岛》：摘录 2
-![](https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Bartok3.png)
+[![](../Graphics/app/uploads/sites/12/2019/06/Bartok3.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Bartok3.png)
 巴托克《来自巴厘岛》：摘录 3
 
 第一种情况在调式和结束音方面都非常模糊。如果你把双手合在一起，音高构成一个整齐的八声音阶，但如果把它们分开，那就是 1:5 距离模型调式，通常与巴托克相关，也称为音级集合 (0167)。这一切中有很好的巴托克式对称性，几乎感觉不到单一调式结束音的浮现。

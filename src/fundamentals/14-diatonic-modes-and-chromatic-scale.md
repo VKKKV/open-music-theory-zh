@@ -19,7 +19,7 @@ Chelsey Hamm
 
 例1按照相对明亮度和暗度对七个自然调式进行了排序。它还总结了哪些音级与爱奥尼亚（大调）模式相比有所变化，下面将更详细地解释。
 
-![双箭头从"最暗"指向"最亮"；调式列表如下：洛克利亚、弗里吉亚、爱奥利亚、多利亚、混合利底亚、爱奥尼亚、利底亚。每个调式下列出了变化的音级。](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Examples-for-OMT-05-1024x152.png)
+[![双箭头从"最暗"指向"最亮"；调式列表如下：洛克利亚、弗里吉亚、爱奥利亚、多利亚、混合利底亚、爱奥尼亚、利底亚。每个调式下列出了变化的音级。](../Graphics/app/uploads/sites/12/2020/05/Examples-for-OMT-05-1024x152.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Examples-for-OMT-05-1024x152.png)
 例1.
 调式的相对暗度和明亮度。
 

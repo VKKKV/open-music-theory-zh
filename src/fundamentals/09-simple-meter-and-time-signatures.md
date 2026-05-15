@@ -64,13 +64,13 @@ I. 基础
 
 在西方音乐记谱中，拍子组合（二拍、三拍、四拍等）用小节线（bar lines）表示，小节线将音乐分成小节（也称为 bars），如示例 8 所示。每小节等同于一个拍子组合。
 
-![一小节被括起来，小节线被标注](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Measures-and-Barlines-300x63.png)
+[![一小节被括起来，小节线被标注](../Graphics/app/uploads/sites/12/2020/01/Measures-and-Barlines-300x63.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Measures-and-Barlines-300x63.png)
 示例 8.
 小节线和小节。
 
 在单拍子中，拍号（time signatures，也称为节拍号 meter signatures）表达两件事：1）每小节包含多少拍，以及 2）拍单位（哪个音符时值获得一拍）。拍号由两个数字表示，一个在另一个上方，放在谱号之后（示例 9）。
 
-![一个打击乐谱号、4/4 拍号和谱表上的四个四分音符](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png)
+[![一个打击乐谱号、4/4 拍号和谱表上的四个四分音符](../Graphics/app/uploads/sites/12/2020/05/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png)
 示例 9.
 两个数字（4 和 4）构成一个拍号。
 
@@ -141,13 +141,13 @@ I. 基础
 你可以在以下练习中练习分类单拍子，利用符杠来帮助你：
 
 练习
-![展示了两小节带有正确符干方向的音符。中间线以上的符干朝下，中间线以下的符干朝上。](https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Stemming2-300x58.png)
+[![展示了两小节带有正确符干方向的音符。中间线以上的符干朝下，中间线以下的符干朝上。](../Graphics/app/uploads/sites/12/2021/05/Stemming2-300x58.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Stemming2-300x58.png)
 示例 18.
 不同符干方向的符杠连接。
 
 示例 18 的第二小节显示，当音符用符杠分组时，符干方向由距离中间线最远的音符决定。在第 2 小节的第 1 拍中，这个音符是 E5，在中间线以上，所以使用朝下的符干。第 2 拍使用朝上的符干，因为距离中间线最远的音符是其下方的 E4。
 
-![符尾方向由符干方向决定](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Flag-Direction-300x119.png)
+[![符尾方向由符干方向决定](../Graphics/app/uploads/sites/12/2020/01/Flag-Direction-300x119.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Flag-Direction-300x119.png)
 示例 19.
 符尾方向由符干方向决定。
 
@@ -157,7 +157,7 @@ I. 基础
 
 示例 20. 部分符杠用于某些混合节奏分组。
 
-![出现一个实心矩形，上面有数字"4"，表示持续四小节的休止](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Multi-Measure-Rest-300x95.png)
+[![出现一个实心矩形，上面有数字"4"，表示持续四小节的休止](../Graphics/app/uploads/sites/12/2020/01/Multi-Measure-Rest-300x95.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Multi-Measure-Rest-300x95.png)
 示例 21.
 持续四小节的多小节休止。
 
@@ -208,8 +208,6 @@ I. 基础
 - 简单音符、休止符和小节线 (.pdf,.docx)。要求学生插入正确的音符、休止符和小节线以完成节奏示例。
 - 单拍子中的节奏记谱 (.pdf,.mscz)。要求学生纠正不反映基础单拍子的记谱。
 
-## 许可
-## 许可
 ## 许可
 
 Open Music Theory Copyright © 2023 by Mark Gotham; Kyle Gullings; Chelsey Hamm; Bryn Hughes; Brian Jarvis; Megan Lavengood; and John Peterson 采用知识共享署名-相同方式共享 4.0 国际许可协议，另有说明的除外。

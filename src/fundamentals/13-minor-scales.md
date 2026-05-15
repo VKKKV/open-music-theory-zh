@@ -24,7 +24,7 @@ Chelsey Hamm 和 Bryn Hughes
 
 与大调音阶一样，小调音阶在许多不同的音乐体裁中非常常见。一个使用小调音阶的例子（见下文"旋律小调"）可以在披头士乐队的《Yesterday》（1964年）中听到。例1展示了这首歌开头的片段：
 
-![《Yesterday》片段，歌词为："Yesterday all my troubles seemed so far away."](https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Yesterday-Beatles.png)
+[![《Yesterday》片段，歌词为："Yesterday all my troubles seemed so far away."](../Graphics/app/uploads/sites/12/2025/07/Yesterday-Beatles.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Yesterday-Beatles.png)
 例1.
 Paul McCartney 和 John Lennon 的《Yesterday》（1964年）片段。
 
@@ -100,7 +100,7 @@ $\uparrow\hat7$ | ti | 导音（Leading Tone）
 
 例9展示了一个B旋律小调音阶，上行和下行，标注了音级名称。如你所见，旋律小调音阶在上行形式中使用导音，在下行形式中使用下主音。
 
-![B旋律小调音阶，上行和下行在低音谱号中，标注了半音和全音以及音级名称。](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-06-11-at-11.20.05-AM-300x112.png)
+[![B旋律小调音阶，上行和下行在低音谱号中，标注了半音和全音以及音级名称。](../Graphics/app/uploads/sites/12/2020/05/Screen-Shot-2020-06-11-at-11.20.05-AM-300x112.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-06-11-at-11.20.05-AM-300x112.png)
 例9.
 B旋律小调音阶。
 
@@ -131,7 +131,7 @@ B旋律小调音阶。
 
 小调调号与大调调号一样，位于谱号之后、拍号之前。每个大调都有一个对应的关系小调调号；因此，小调调号中升号和降号的排列顺序与大调调号相同，放置在相同的线和间上。例11复制自上一章，展示了所有四种谱号中升号和降号的顺序：
 
-![四种谱号中七个升号和七个降号的调号排列顺序。](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-06-08-at-1.11.04-PM-300x109.png)
+[![四种谱号中七个升号和七个降号的调号排列顺序。](../Graphics/app/uploads/sites/12/2020/05/Screen-Shot-2020-06-08-at-1.11.04-PM-300x109.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-06-08-at-1.11.04-PM-300x109.png)
 例11.
 四种谱号中升号和降号的顺序。
 

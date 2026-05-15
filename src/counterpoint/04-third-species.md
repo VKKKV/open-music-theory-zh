@@ -68,7 +68,7 @@ Mark Gotham 和 Kris Shaffer
 
 第三程式中的不协和音程可以出现在第二拍、第三拍或第四拍上，并且应该被级进运动所前后包围（双邻音和变化音除外，下面解释）。这有助于流畅性，既使不协和音远离小节中最强的拍位，又将其与最平滑的旋律运动结合在一起。第三程式对位法中的不协和音处理集中在例2中所示和下面描述的类型：
 
-![](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Dissonance.png)
+[![](../Graphics/app/uploads/sites/12/2020/01/Dissonance.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Dissonance.png)
 例2。
 第三程式不协和音类型。
 

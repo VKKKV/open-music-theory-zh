@@ -91,7 +91,7 @@ Hepokoski和Darcy的本质呈示终止（Essential Expositional Closure，EEC）
 
 # 奏鸣曲式分析示例
 
-https://viva.pressbooks.pub/app/uploads/sites/12/2019/09/Mozart_Sonata_K_310_i.mp3
+[🔊 音频示例](https://viva.pressbooks.pub/app/uploads/sites/12/2019/09/Mozart_Sonata_K_310_i.mp3)
 
 例6.莫扎特，A小调钢琴奏鸣曲，K 310，第一乐章。点击查看PDF乐谱。
 

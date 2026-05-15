@@ -50,7 +50,7 @@ Mark Gotham
 
 布里顿使用穿透力强的乐器作为起音（包括再次使用竖琴），并将共鸣设置在持续的长笛线条上，如这段小摘录所示：
 
-![](https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Ciii-Britten.png)
+[![](../Graphics/app/uploads/sites/12/2019/07/Ciii-Britten.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Ciii-Britten.png)
 布里顿《四首海间奏曲》中的"起音–持续"细节
 
 （注意竖琴泛音的八度移位。）在乐章后面（大约排练号3处），同样的手法出现在木琴和短笛担任起音、小号持续的部分。
@@ -72,7 +72,7 @@ Mark Gotham
 
 这个缩编谱展示了这个过程：
 
-![](https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Diii-Berg-Wozzeck.png)
+[![](../Graphics/app/uploads/sites/12/2019/07/Diii-Berg-Wozzeck.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Diii-Berg-Wozzeck.png)
 贝尔格《沃采克》中B3齐奏的乐器进入总结
 
 在一本关于声谱的里程碑式著作中，Robert Cogan将这段的开始描述为"几乎完全是基音"：即几乎是一个纯正弦波，严格最小化了泛音。我们以pppp开始，使用加弱音器的圆号：一个完全合适的选择，因为它拥有标准交响管弦乐队中可用的频谱活动最少的声音，并且部分定义上也是最远的。演奏者不仅坐在后面，而且他们的乐器将声音向后投射，进一步增加了距离，确保大多数观众主要听到的是经墙壁反射的声音。在这和使用弱音器之间，大量的高频谱内容被移除，留下了几乎纯净的基音。下一个进入的独奏小提琴上的弱音器具有类似的频谱听觉效果。当低音单簧管加入声音时，引入了一些较高的频谱，但不多，因为该乐器在其音域的高处并且只产生奇数泛音。接下来的内容继续了这个不仅是声音的渐强，也是乐器类型和频谱内容的渐强。自然地，重型铜管最后进入，用光辉为这段频谱进程的结尾增辉。

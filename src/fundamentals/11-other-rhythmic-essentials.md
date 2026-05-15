@@ -19,7 +19,7 @@ I. 基础
 
 三连音在许多不同音乐类型中极为常见。一个例子可以在 LMFAO 的"Shots"（2009 年）中找到。示例 2 展示了歌曲副歌的反复节奏，其中包含一个多拍三连音：
 
-![展示了一个打击乐谱号和 4/4 拍号的单线谱表。出现了以下节奏：2 个四分音符、一个四分音符三连音和一个单独的四分音符。每个音符的文本是"shots"。](https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Shots-Rhythm-LMFAO.png)
+[![展示了一个打击乐谱号和 4/4 拍号的单线谱表。出现了以下节奏：2 个四分音符、一个四分音符三连音和一个单独的四分音符。每个音符的文本是"shots"。](../Graphics/app/uploads/sites/12/2025/07/Shots-Rhythm-LMFAO.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Shots-Rhythm-LMFAO.png)
 示例 2.
 LMFAO 的"Shots"（2009 年）副歌的片段。
 
@@ -33,7 +33,7 @@ LMFAO 的"Shots"（2009 年）副歌的片段。
 
 二连音也相当常见，虽然可能不如三连音那么常见。示例 5 展示了安德鲁·劳埃德·韦伯的《猫》（1980 年）中"Memory"再现部的片段，其中包括拍子层面的二连音：
 
-![展示了一个带有"Memory"声乐部分的谱表。文本写道："memory, turn your face to the moon light, let your memory lead you, open up enter in. If you find the meaning of what happiness is..."片段的第五小节中有二连音。](https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Memory-Cats-Webber.png)
+[![展示了一个带有"Memory"声乐部分的谱表。文本写道："memory, turn your face to the moon light, let your memory lead you, open up enter in. If you find the meaning of what happiness is..."片段的第五小节中有二连音。](../Graphics/app/uploads/sites/12/2025/07/Memory-Cats-Webber.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Memory-Cats-Webber.png)
 示例 5.
 安德鲁·劳埃德·韦伯的《猫》（1980 年）中"Memory"再现部的片段。
 
@@ -96,8 +96,6 @@ LMFAO 的"Shots"（2009 年）副歌的片段。
 
 - 三连音和二连音、超节拍和切分 (.pdf,.docx) 工作表播放列表
 
-## 许可
-## 许可
 ## 许可
 
 Open Music Theory Copyright © 2023 by Mark Gotham; Kyle Gullings; Chelsey Hamm; Bryn Hughes; Brian Jarvis; Megan Lavengood; and John Peterson 采用知识共享署名-相同方式共享 4.0 国际许可协议，另有说明的除外。

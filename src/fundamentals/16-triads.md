@@ -20,7 +20,7 @@ Chelsey Hamm
 
 例1. 两个三和弦，以旋律性和和声性方式展示。
 
-![一个戴帽子和围巾的雪人。](https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/Snowperson-300x300.png)
+[![一个戴帽子和围巾的雪人。](../Graphics/app/uploads/sites/12/2022/07/Snowperson-300x300.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/Snowperson-300x300.png)
 例2.
 一个雪人。
 例3.

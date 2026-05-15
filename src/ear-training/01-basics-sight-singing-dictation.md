@@ -50,13 +50,13 @@
 
 ## 节奏听写
 
-https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/untitled-2.mp3
+[🔊 音频示例](https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/untitled-2.mp3)
 
 例 2. 用于听写的节奏。
 
 听例 2，这是一段用于听写的节奏录音。进行节奏听写的一种策略是构建点阵（dot grid）。点阵是一系列代表拍子和小节的点。例 3 展示了四四拍（common time）中四个小节的点阵：
 
-![四组四个点的图示](https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2020-07-03-at-10.01.23-AM-300x42.png)
+[![四组四个点的图示](../Graphics/app/uploads/sites/12/2019/11/Screen-Shot-2020-07-03-at-10.01.23-AM-300x42.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2020-07-03-at-10.01.23-AM-300x42.png)
 例 3.
 四四拍中四个小节的点阵。
 
@@ -68,7 +68,7 @@ https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/untitled-2.mp3
 
 ## 旋律听写
 
-https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/untitled-2-1.mp3
+[🔊 音频示例](https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/untitled-2-1.mp3)
 
 例 4. 一条与例 2 相同节奏的旋律。
 

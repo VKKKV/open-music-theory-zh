@@ -32,7 +32,7 @@ V. 半音化
 - G 移动到升 F 再返回（$\hat1$ 和 $\hat7$）。
 - 这可以说给人一种主-属交替的印象，但变化非常微小。
 
-![舒伯特《阿特拉斯》摘录](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Atlas.png)
+[![舒伯特《阿特拉斯》摘录](../Graphics/app/uploads/sites/12/2020/01/Atlas.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Atlas.png)
 例 1.
 舒伯特《阿特拉斯》开头的摘录（选自《天鹅之歌》，D.957），展示了增三和弦 III+（可能，取决于你的分析视角），以及该和弦与 V 和 i 的密切关系。
 
@@ -48,7 +48,7 @@ V. 半音化
 
 在一般情况下这可能是正确的，但这并不是说没有辉煌的反例。例 2 给出了一个这样的例子，来自巴赫《尊主颂》（1723年，1733年）中"他施展大能"结尾的"mente cordis"部分。这是一个非凡的时刻：不仅有一个增三和弦，而且它是由几乎完整的力量引入的，跨越整个音域，并且在戏剧性的全体休止之后，而该休止本身之前有一个减七和弦。你不可能在任何曲目中找到比这更清晰、更具戏剧前景的增三和弦了。
 
-![](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Bach.png)
+[![](../Graphics/app/uploads/sites/12/2020/01/Bach.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Bach.png)
 例 2.
 巴赫《尊主颂》"他施展大能"中的一个突出增和弦，以及该段落的一种可能和声解读，将增三和弦视为在一个由两个二级属和弦 vii/v 包围的小调 V 段落中设置了一个阻碍终止。
 
@@ -65,7 +65,7 @@ V. 半音化
 - 增和弦出现在属功能中；
 - 该增和弦的关键音（升 B）是升高的上主音，通过从 $\hat2$ 到 $\hat3$ 的半音运动产生（在声乐部分和钢琴中都有）。
 
-![](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Hensel-Extract.png)
+[![](../Graphics/app/uploads/sites/12/2020/01/Hensel-Extract.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Hensel-Extract.png)
 例 3.
 范妮·门德尔松·亨塞尔《船歌》（6 首歌曲，Op. 1, no. 6）的摘录
 

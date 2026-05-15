@@ -30,7 +30,7 @@ I. 基础
 
 复拍子中的小节（measures）等同于一组拍子（二拍、三拍或四拍），就像单拍子中一样。然而，拍号中的两个数字在复拍子中表达不同的信息。复拍子拍号的上方数字表示一小节中的细分数，而下方数字表示细分单位（division unit）——即哪个音符时值是细分。示例 1 展示了一个常见的复拍子拍号。
 
-![一个打击乐谱号、复拍子拍号（6/8）和六个八分音符](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Compound-Meter-Time-Signature-300x101.png)
+[![一个打击乐谱号、复拍子拍号（6/8）和六个八分音符](../Graphics/app/uploads/sites/12/2020/05/Compound-Meter-Time-Signature-300x101.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Compound-Meter-Time-Signature-300x101.png)
 示例 1.
 两个数字（6 和 8）构成一个常见的复拍子拍号。
 
@@ -152,8 +152,6 @@ I. 基础
 - 复拍音符、休止符和小节线 (.pdf,.docx)
 - 复拍节奏记谱的重新符杠 (.pdf,.mscz)
 
-## 许可
-## 许可
 ## 许可
 
 Open Music Theory Copyright © 2023 by Mark Gotham; Kyle Gullings; Chelsey Hamm; Bryn Hughes; Brian Jarvis; Megan Lavengood; and John Peterson 采用知识共享署名-相同方式共享 4.0 国际许可协议，另有说明的除外。

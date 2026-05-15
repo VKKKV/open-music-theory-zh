@@ -115,7 +115,7 @@ All-trichord rows by FourScoreAndMore
 
 如赋格风格中典型（实际上几乎不可避免）的那样，段落在密度上逐渐增加。与之匹配，这个实现也通过 poco a poco accelerando 和通过迭代缩短乐句跨度来提高变化速率，使用这个减少休止的方案：
 
-![带有渐进压缩的节奏循环](https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Rhythmic-cycles.png)
+[![带有渐进压缩的节奏循环](../Graphics/app/uploads/sites/12/2021/05/Rhythmic-cycles.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Rhythmic-cycles.png)
 带有渐进压缩的节奏循环。每个 X 标识从下一个陈述中被削减的休止。
 
 ### 后续步骤

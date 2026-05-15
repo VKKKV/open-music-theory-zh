@@ -88,7 +88,7 @@ PL和RP循环。
 
 相反，RL循环（例10）相当长：它经过所有24个大三和弦和小三和弦。由于这个循环需要很长时间才能"闭合回路"，它经常被忽略或以截断形式呈现。
 
-![一条高音谱号单谱表。一个C大三和弦经过交替的[pb_glossary id=](https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/RL-cycle-1024x111.png)
+[![一条高音谱号单谱表。一个C大三和弦经过交替的[pb_glossary id=](../Graphics/app/uploads/sites/12/2019/07/RL-cycle-1024x111.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/RL-cycle-1024x111.png)
 例10.
 RL循环。
 

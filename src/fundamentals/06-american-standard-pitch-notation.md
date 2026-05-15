@@ -20,13 +20,13 @@ I. 基础
 
 ASPN 区分八度（octave），从音高 C 开始，到音高 B 结束。[1] 这意味着每个新的八度标记都从音符 C 开始，如示例 1 所示。八度从最低到最高标记，从 0 开始，按数字顺序排列（1、2、3 等）。音高中央 C 是 C4，记住这一点很有用。
 
-![展示了九个不同的八度在高音谱号和低音谱号中，每个八度都以音高"C"开始和结束。它们用 ASPN 标签标记：C0、C1、C2 等。](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Scientific_pitch_notation_octaves_of_C-300x183.png)
+[![展示了九个不同的八度在高音谱号和低音谱号中，每个八度都以音高"C"开始和结束。它们用 ASPN 标签标记：C0、C1、C2 等。](../Graphics/app/uploads/sites/12/2019/05/Scientific_pitch_notation_octaves_of_C-300x183.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Scientific_pitch_notation_octaves_of_C-300x183.png)
 示例 1.
 ASPN 八度标记；每个八度从音高 C 开始。
 
 八度内的所有字母名称（下一个八度的 C 以下）都获得相同的八度标记。例如，示例 2 中的所有音符都将被指定为第 4 八度，因为它们在 C4 之上但在 C5 之下。应用于音符的变音记号不会影响其 ASPN 数字。例如，升 B3 和 C4 具有不同的八度数字，尽管它们是等音等价的，因为升 B 仍被认为属于较低的八度。
 
-![高音谱号中的音符 C、D、E、F、G、A 和 B](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-07-24-at-3.50.53-PM-300x71.png)
+[![高音谱号中的音符 C、D、E、F、G、A 和 B](../Graphics/app/uploads/sites/12/2019/05/Screen-Shot-2019-07-24-at-3.50.53-PM-300x71.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-07-24-at-3.50.53-PM-300x71.png)
 示例 2.
 音符 C、D、E、F、G、A 和 B。
 
@@ -38,7 +38,7 @@ ASPN 八度标记；每个八度从音高 C 开始。
 
 ASPN 标签对于在钢琴键盘上找到特定音符非常有帮助。示例 3 描绘了一个用 ASPN 标记标注每个八度的钢琴键盘。如你所见，钢琴键盘跨越了完整的 1 至 7 八度。它还包含八度 0 和 8 的一小部分。ASPN 标签与乐器或声部类型无关。换句话说，C4 无论由长笛、长号、小提琴还是人声产生，都将始终被标记为 C4。
 
-![一个钢琴键盘，每个八度用数字标记。前两个白键是"0"八度；每个新的八度（八度 1、八度 2、八度 3 等）从音符"C"开始。](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/1040px-Piano_Frequencies.svg_-300x58.png)
+[![一个钢琴键盘，每个八度用数字标记。前两个白键是"0"八度；每个新的八度（八度 1、八度 2、八度 3 等）从音符"C"开始。](../Graphics/app/uploads/sites/12/2019/05/1040px-Piano_Frequencies.svg_-300x58.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/1040px-Piano_Frequencies.svg_-300x58.png)
 示例 3.
 标有 ASPN 八度标记的钢琴键盘；彩色音符（蓝色和黄色）都属于第 4 八度标记。
 
