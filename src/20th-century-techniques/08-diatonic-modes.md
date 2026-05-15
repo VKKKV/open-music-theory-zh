@@ -45,6 +45,8 @@ VIII. 二十世纪与二十一世纪技法
 
 例 2. 以记谱法呈现的历史教会调式总结。
 
+<iframe src="https://musescore.com/user/32728834/scores/8631327/embed" width="100%" height="750" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 # 二十世纪和二十一世纪的自然音调式
 
 关于自然音调式的另一种总结（及其作业）可以在《自然音调式与半音"音阶"导论》中找到。
@@ -71,6 +73,8 @@ VIII. 二十世纪与二十一世纪技法
 
 例 4. 按大调主音与小调主音分组的调式，色彩音用蓝色标示。
 
+<iframe src="https://musescore.com/user/32728834/scores/5973262/embed" width="100%" height="394" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 注意爱奥利亚调式与自然小调音阶相同。在讨论二十世纪和二十一世纪的调式时，区分爱奥利亚调式（避免升高的导音 ti $\uparrow\hat7$，而始终使用 te $\downarrow\hat7$）可能是有用的。
 
 ## 听辨调式主音
@@ -89,6 +93,8 @@ VIII. 二十世纪与二十一世纪技法
 
 例 5.
 识别调式过程的流程图。
+
+![例 5. 识别调式过程的流程图。](Graphics/app/uploads/sites/12/2020/02/modes-with-phryg.png)
 
 ### 1. 识别主音的性质。
 
@@ -135,21 +141,5 @@ VIII. 二十世纪与二十一世纪技法
 - 更多初级练习可在《自然音调式与半音"音阶"导论》中找到。
 
 - Vincent Persichetti (1961) 将这些音称为"特征音"。↵
-
----
-
----
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8631327/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/5973262/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-📋 **章节播放列表**: <https://open.spotify.com/playlist/4cqW6tS2ZTCooPlBSfr2N1>
-
 
 *原文: [Diatonic Modes](https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-modes/) | CC BY-SA*

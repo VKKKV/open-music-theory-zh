@@ -17,15 +17,24 @@ V. 半音化
 
 导音省略发生在和弦有一个导音（或属功能导音）但没有按预期解决（向上小二度），而是变为自身的降低版本（例如，B 变为 B♭ 或 C♯ 变为 C♮）。当属功能和弦不是解决到预期的三和弦，而是解决到与预期三和弦同根音的属七和弦时，就会发生这种情况，如例 1 所示。注意，在给定我们对这个和声语境中预期发生的事情的了解下，被抑制的和弦可以被清楚地识别出来。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6225476/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 1. 和声省略，其中预期和弦被抑制并被同根音的属七和弦替代。
 
 ## 使用完全减七和弦的导音省略
 
 导音省略也可以发生在预期的三和弦被功能等价的完全减七和弦替代的时候，该减七和弦等价于可以替代它的属七和弦（如果有的话），并具有相同的低音。例 2 显示了 V7 和弦的每个转位及其可以替代使用的功能等价的 viio7 和弦。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6225477/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 2. 功能等价的 V7 和 viio7 和弦。
 
 例 3 包含了这种导音省略的一个例子。注意例 1 和例 3 几乎完全相同，只是例 3 使用了功能等价的完全减七和弦（viio7 而非 $\mathrm{V^6_5}$）。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6225479/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 3. 和声省略，其中预期和弦被抑制并被功能等价于例 1 中属七和弦的完全减七和弦替代。
 
@@ -33,11 +42,17 @@ V. 半音化
 
 在处理省略时，声部进行变化不大；唯一的区别是导音变为自身的降低版本，而非像通常那样向上小二度解决到下一个和弦的根音。见例 4 中的声部进行比较。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6225480/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 4. 正常解决与省略解决之间的声部进行比较。
 
 ## 当导音在低音中时
 
 重要的是要记住，如果导音省略前的导音在低音中，这意味着低音将发生变化，使即将到来的和弦处于不同的转位。这在 V6、V65 和 viio7（以及具有相同罗马数字的任何属功能和弦）中预期会发生，因为它们的导音都在低音中。这种情况的常见进行是 $\mathrm{V^6_5-V^4_2/IV}$ 和 $\mathrm{V^6_5/V-V^4_2}$，如下面的例 5。在其他情况下，低音将保持不变。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6225481/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 5. 当导音在低音中并发生导音省略时预期低音的变化。
 
@@ -45,11 +60,17 @@ V. 半音化
 
 根音升高省略发生在预期和弦的根音以升高版本到达时（例如，B♭ 变为 B♮ 或 C 变为 C♯），成为属功能和弦中的导音。例如，如果以 C 为根音的预期和弦被抑制，而以 C♯ 为导音的和弦出现，就会发生根音升高省略。这可以是任何使用 C♯ 作为导音的和弦：A、A7、C♯o、C♯o7 和 C♯∅7（尽管半减七选项不太常见）。整体和声结果是进行被推高到音阶的更高位置。在例 6 中，预期进行（基于该风格的规范）应为 $\mathrm{I^6-V^4_3-I}$。相反，最后的 I 和弦被根音升高省略，因为 $\mathrm{V^6_5/ii}$（A7/C♯）取代了它的位置。该和弦随后解决到 ii，因此虽然预期进行是走向 I，但根音升高省略的最终结果是进行解决到 ii，即音阶中高一个音级的位置。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6225482/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 6. 根音升高省略。
 
 ## $\mathrm{cad.^6_4}$ 版本
 
 带有 $\mathrm{cad.^6_4}$ 的进行可以包含根音升高省略，这略有不同，因为预期的根音确实随着 $\mathrm{cad.^6_4}$ 的到来而出现，但当 $^6_4$ 解决到 $\begin{smallmatrix}(7)\\5\\3\end{smallmatrix}$ 时转变为升高版本。例 7 说明了这种情况。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6225483/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 7. 涉及 $\mathit{cad.^6_4}$ 的根音升高省略。
 
@@ -67,6 +88,9 @@ V. 半音化
 
 第 9 小节再次重复准 $\mathrm{cad.^6_4}$ 和弦。这一次，它解决到以 C 为根音的和弦，但它仍然不是我们预期的原位主三和弦。相反，我们发现了一个导音省略：属和弦的导音向下解决，使 C 和弦成为属七和弦（V7/IV）。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/8395434/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 8. 理查·施特劳斯，《献祭》，Op. 10, no. 1，第 1–10 小节 - 单一乐句中的多个和声省略。
 
 作业
@@ -75,30 +99,4 @@ V. 半音化
 ---
 
 ## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6225476/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6225477/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6225479/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6225480/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6225481/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6225482/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6225483/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8395434/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
 📋 **章节播放列表**: <https://open.spotify.com/playlist/6L0azYPopVuGiX68f9V6g1?si=331370beb5564ac1>

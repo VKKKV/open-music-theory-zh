@@ -21,21 +21,36 @@ V. 半音化
 
 例 1 展示了通过导音（在高声部）和和弦根音（在低音）之间的声部交换来延续属七和弦。以这种方式移动三个半音将到达另一个原位属七和弦/德国增六和弦（回想一下它们是等音等价的！）。以这种方式移动四个半音将到达你开始进行时的同一个属七和弦，但这次是第一转位。该模式产生五个不同的和弦，如下面的例子中标记为 1-5。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/5941409/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 1. 全能进行通过导音和根音之间的半音声部交换延续属和声。
 
 全能进行的一种变体是将模式中的第二个和弦从属七和弦改为减七和弦。在这个版本中，第一个和弦和第二个和弦之间保持三个共同音。你可以在例 2 中看到这个变体。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/21207871/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 2. 用减七和弦替代模式中第二个和弦的全能进行变体。
 
 勃拉姆斯为我们提供了一个汇聚型全能进行的好例子。在例 3 中，我们可以看到 B 大调中的属和弦通过第 38-41 小节的全能进行得到延续。有趣的是，他在第 46-48 小节再次使用该进行，这次是延续新调升 C 的属音，这是第 38-41 小节原始进行中内部和弦"暗示"的调。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/21361027/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 3. 勃拉姆斯谐谑曲 Op. 4 中的两个全能进行，第 31-49 小节
 
 全能进行可用于进入远关系调，最终穿越整个八度（尽管在实践中穿越整个八度的情况很少）。一旦你到达新的原位属七和弦（经过四个和弦后到达的），找到新的导音并重新开始过程。在下面的例 4 中，序列每四个和弦"重置"一次，将其重新解释为新的属七和弦，从而将新的导音与低音（在和弦根音上）以反向运动移动。例如，模式中的第四个和弦是降 B7。在例 1 中，该和弦被解释为德国增六和弦，半音声部交换继续多一个半音以到达 C 的属音第一转位（上面例子中的和弦 5）。这次，我们通过将降 B7 解释为新的原位属七和弦来重新开始模式，并将新的导音与低音进行半音声部交换。该和弦已被重新标记为和弦 1，新的导音用蓝色标出。下面例子中的颜色显示了该和弦在整个模式中的重新解释，以及低音与各种导音之间的声部交换。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/21203566/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 4. 穿越整个八度的全能进行。
 
 在下面的例 5 中，肖邦使用了两次迭代的全能进行，你可以通过观察谱表上方列出的红色和蓝色符头和数字来跟踪。肖邦使用了减七和弦作为和弦 2 的变体，从升 C 小调的原位属七和弦通过全能进行移动到 G 大调的原位属七和弦。然而有趣的是，肖邦随后将这个 D7 和弦的根音和五音各下行半音，变为降 A7 和弦的根音和五音，作为属音来关闭降 D 大调的乐句——与我们开始的同一个主音（但不是调式）！
+
+
+<iframe src="https://musescore.com/user/32728834/scores/21361219/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 5. 肖邦降 D 大调夜曲 Op. 27, No. 2 中全能进行的两次连续迭代
 
@@ -43,11 +58,20 @@ V. 半音化
 
 发散型全能进行的运作几乎完全相同，但不是将导音与低音以反向运动移动，而是移动七音。如例 6 所示。要进入远关系调，找到原位属七和弦中的新七音并重复该过程。同样，通过跟踪例子中的颜色来更清楚地理解，颜色代表七音和低音之间的每次声部交换。例如，从第 1 小节的 G7 开始，半音声部交换发生在中音声部的 F 和低音的 G 之间。以半音反向运动分开，我们最终在同一个小节的第 4 拍到达 E7。此时，我们有了新的和弦七音 D，它与现在在 E 上的低音进行声部交换。思考这个版本全能进行的另一种方式是将其视为从模式的和弦 4 开始。如果你想完全逆转例 1 中的原始全能进行，只需在下面列出的任何和弦 4 之前插入和弦 5。这种逆转可以在舒伯特钢琴奏鸣曲的摘录中找到，如下面的例 7 所复制。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/21226327/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 6. 穿越八度的全能进行，低音和上方声部发散。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/21393718/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 7. 从第一转位属七和弦开始的发散型全能进行
 
 与该技术的汇聚版本非常相似，发散型全能进行很少用于穿越整个八度，但我们确实发现了许多使用该技术实现向远关系调转调的例子。在例 8 中，穆索尔斯基使用全能进行通过两次模式迭代转调到 E 大调。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/21376111/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 8. 经过两次模式迭代的发散型全能进行。
 
@@ -57,27 +81,3 @@ V. 半音化
 ---
 
 ## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/5941409/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/21207871/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/21361027/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/21203566/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/21361219/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/21226327/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/21393718/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/21376111/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>

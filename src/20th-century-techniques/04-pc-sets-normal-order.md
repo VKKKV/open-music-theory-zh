@@ -35,11 +35,15 @@
 
 例1.利用钟面求范式。
 
+<iframe title="Using the Clock Face to Find Normal Form" src="https://coursemedia.gmu.edu/embed/secure/iframe/entryId/1_axkf6ow8/uiConfId/+44431031/st/0" width="608" height="402" frameborder="0"></iframe>
+
 # 换位
 
 在后调音乐中，移调通常与运动相关：采用和弦、动机、旋律，当它被移调时，听觉效果就是将和弦、动机或旋律向某个方向移动。在克劳德·德彪西的《大教堂英语》中的两个不相连的段落中，开头动机<D、E、B>或<2,4,11>被调高四个半音为<F♯,G♯,D♯>或<6,8,3>，以m为单位。 18（示例 2 中均为蓝色），代表大教堂在水面上缓慢上升。当我们听到 m 处的段落时。 18，我们认识到它与m中的段落的关系。 1 因为同一组有序间隔返回，但以不同的音高开始。转置保留了音程内容，不仅如此，它还保留了音程的具体排列。
 
 示例 2. 动机的换位，有序和无序。
+
+<iframe src="https://musescore.com/user/32728834/scores/8391225/s/-79eyZ/embed" width="100%" height="630" frameborder="0"></iframe>
 
 从 m 开始，同样的动机以一种更加模糊的方式被保留下来。 18 入米。 19（示例 2 中的红色）。这里，无序音高类集被转置，但不是之前的有序集。这可能看起来不像前两组动机那样像换位，但如果音高按正常顺序排列，换位的音程关系就会变得清晰。
 
@@ -69,8 +73,12 @@ $$\begin{alignat*}{2} && [3, 6, 8] \\ {}- && [11, 2, 4] \\ \hline && 4\ 4\ 4\ \\
 
 示例 3.[2, 4, 7] 反转为 [1, 4, 6]。
 
+<iframe src="https://musescore.com/user/32728834/scores/8391513/embed" width="100%" height="394" frameborder="0"></iframe>
+
 例 4.
 这两组都有相同的音程（a 2、a 3 和 a 5），但音程排列不同。
+
+[![例4](../Graphics/app/uploads/sites/12/2019/05/inversion-2-1.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/inversion-2-1.png)
 
 ## 一般反演
 
@@ -103,13 +111,21 @@ I8[2,4,7] = [1,4,6]。
 
 另一种直观的方式是在钟面上。如果您有两组 1) 均按正常顺序且 2) 通过反转相关的组，则每组中的音符将以相反的顺序相互映射，如下面的示例 5 所示。将两个集合以正规形式写在彼此之上，然后将每个集合的相反整数加在一起，如示例 6 所示，以产生 I 关系的索引号。如果每个数字对的总和为 12 或更大，则减去 12，得到 mod 12。
 
-示例 5. 两个逆相关集合的整数以相反的顺序配对在一起，形成类似镜像的关系。这些成对的区间之和总是相同的数字，即反转的索引号。 |示例 6. 对于两个 3 音符集合，一个集合中最左边的整数与第二个集合的最右边相加，中间的数字相加，第一个集合的最右边元素与第二个集合的最左边相加。这是求倒转索引数的叉加法。
+示例 5. 两个逆相关集合的整数以相反的顺序配对在一起，形成类似镜像的关系。这些成对的区间之和总是相同的数字，即反转的索引号。
+
+[![例5](../Graphics/app/uploads/sites/12/2019/05/Inversional-pairs.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Inversional-pairs.png)
+
+示例 6. 对于两个 3 音符集合，一个集合中最左边的整数与第二个集合的最右边相加，中间的数字相加，第一个集合的最右边元素与第二个集合的最左边相加。这是求倒转索引数的叉加法。
+
+[![例6](../Graphics/app/uploads/sites/12/2019/05/Cross-addition-for-inversion.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Cross-addition-for-inversion.png)
 
 # 使用钟面转置和反转
 
 如果您更喜欢更直观的转置和反转方法，请观看示例 7 中的视频课程。
 
 示例 7. 使用钟面进行音级组的换位和倒置。
+
+<iframe title="Transformations" src="https://coursemedia.gmu.edu/embed/secure/iframe/entryId/1_wuclkc6h/uiConfId/+44431031/st/0" width="608" height="402" frameborder="0"></iframe>
 
 进一步阅读
 
@@ -127,21 +143,9 @@ I8[2,4,7] = [1,4,6]。
 - 作文准备工作表（.pdf、.docx）。通过要求学生找到集合和变换，为集合课堂作文做好准备。
 
 ## 执照
-## 执照
 
 Open Music TheoryCopyright © 2023 byMark Gotham; Kyle Gullings; Chelsey Hamm; Bryn Hughes; Brian Jarvis; Megan Lavengood; and John Petersonis licensed under aCreative Commons Attribution-ShareAlike 4.0 International License, except where otherwise noted.
 
 ---
-
----
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8391225/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8391513/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
 
 *原文: [音高等级集、正常顺序和转换](https://viva.pressbooks.pub/openmusictheory/chapter/pc-sets-normal-order-and-transformations) | CC BY-SA*

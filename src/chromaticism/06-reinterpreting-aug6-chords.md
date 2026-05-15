@@ -13,11 +13,15 @@ V. 半音化
 
 向近关系调的转调是一项相对容易的任务；我们可以通过查看两个具有几乎相同调号的调之间共享的和弦组来找到枢轴和弦。这样的和弦有很多。见例 1：
 
+[![例 1. C 大调和 G 大调中的共同和弦](../Graphics/example1-common-chords-C-G-major.png)](https://viva.pressbooks.pub/app/uploads/sites/78/2020/06/chromatic-modulation-closely-related-keys-1024x491.png)
+
 例 1. C 大调和 G 大调中的共同和弦。
 
 然而，当两个调在五度圈上相隔超过一个变音记号时，找到一个能在两个调之间实现平滑转调的枢轴和弦就变得更加困难。
 
 要转调到远关系调，即在五度圈上相隔超过一个变音记号的调，需要我们运用半音和弦的知识，例如通过调式混合获得的和弦。调式混合使我们能够扩展转调的可能枢轴和弦数量。例如，在 C 大调中，通过调式混合产生的和弦（即在 C 小调中找到的和弦），我们现在可以轻松地转调到降 E 大调（7 个共同和弦）、降 A 大调（4 个共同和弦）、降 B 大调（3 个共同和弦），以及它们的关系小调 F 小调和 G 小调。例 2 显示了通过在 C 大调中使用混合和弦实现的 C 大调和降 E 大调之间的共同和弦。
+
+[![例 2. 通过调式混合实现的 C 大调和降 E 大调之间的共同和弦](../Graphics/example2-shared-chords-C-Eb-mixture.png)](https://viva.pressbooks.pub/app/uploads/sites/78/2023/03/distantly-related-keys-mixture-to-diatonic-1024x562.png)
 
 例 2. 通过调式混合实现的 C 大调和降 E 大调之间的共同和弦。
 
@@ -28,6 +32,8 @@ V. 半音化
 例 4. 使用降 D 大调中的混合和弦（♭VI6）作为枢轴和弦从降 D 大调转调到降 F 大调。
 
 反过来，我们可以将旧调中的自然音和弦作为新调中的混合和弦，向五度圈"升号方向"转调到远关系调。例 5 显示了从 C 大调转调到 A 大调时，通过将 C 大调中的自然音和弦作为 A 大调中混合和弦的潜在枢轴和弦。
+
+[![例 5. 从 C 大调转调到 A 大调时的潜在枢轴和弦](../Graphics/example5-pivot-chords-C-A.png)](https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/distantly-related-keys-diatonic-to-mixture-1024x540.png)
 
 例 5. 从 C 大调转调到 A 大调时的潜在枢轴和弦。
 

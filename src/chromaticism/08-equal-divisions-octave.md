@@ -12,11 +12,17 @@ V. 半音化
 
 这有些微不足道，因为它简单地产生了半音阶。不过，确实存在根音以小二度上行或下行移动的和弦进行。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6263572/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 1. 以小二度划分八度（半音阶）。
 
 ### 大二度
 
 许多音乐是使用全音阶（将八度等分为大二度）创作的。这些音乐很多不是调性的，甚至是三和弦式的。有少数例子中三度和弦根音勾勒出全音阶。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6263580/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 2. 以大二度划分八度（全音阶）。
 
@@ -24,17 +30,26 @@ V. 半音化
 
 根音以小三度进行勾勒出减七和弦。这些和弦进行最常见于每个勾勒八度划分的和弦根音都被主音化，或被中间的和弦打断的例子中。更少见的是，它们出现在勾勒划分的和弦根音连续呈现的进行中。这类进行也与八音阶（包含重叠的减七和弦）相关。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6263587/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 3. 以小三度划分八度，勾勒出减七和弦
 
 ### 大三度
 
 根音以大三度移动的和弦进行将勾勒出增三和弦。这些和弦进行可以在和弦连续出现以及有中间和弦的例子中找到。这些进行与六音阶（包含两个重叠的增三和弦）密切相关。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6263592/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 4. 以大三度划分八度，勾勒出增三和弦。
 
 ### 三全音
 
 最后一种可以将八度等分的方式是三全音。这样做的和弦进行将只有两个和弦，所以曲目中的例子有些微不足道。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6263596/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 5. 以三全音划分八度。
 
@@ -46,18 +61,3 @@ V. 半音化
 ---
 
 ## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6263572/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6263580/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6263587/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6263592/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6263596/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>

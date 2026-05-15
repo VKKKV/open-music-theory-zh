@@ -14,8 +14,9 @@ III. 曲式
 
 # 层次结构
 
-例 1
-. 古典音乐中曲式的层次结构。
+例 1. 古典音乐中曲式的层次结构。
+
+![Hierarchy of form in classical music](../Graphics/Form_Hierarchy.png)
 
 理解音乐曲式的一种方式是将其视为一个分组单元的层次结构。例 1 展示了一首作品包含乐章（movements），乐章包含段落（sections），段落包含主题（themes），主题包含乐句（phrases），依此类推。
 
@@ -29,9 +30,15 @@ III. 曲式
 
 例 2. 动机分析：John Williams《Journey to the Island》（1:20–1:46）和《侏罗纪公园》主题（0:48–1:06）。
 
+<iframe src="https://www.youtube.com/embed/SHEcqFSA0Ds" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
 例 3. 动机分析：Ludwig van Beethoven《第五交响曲》I（0:00–0:27）。
 
+<iframe src="https://www.youtube.com/embed/1CDeaj_c16Y" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
 例 4. 动机分析：Lin-Manuel Miranda《Hamilton》中的"Aaron Burr, Sir"（0:12–0:16）。
+
+<iframe src="https://www.youtube.com/embed/n6vaYX4Rr-I" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 虽然动机不一定需要重复，但那些确实重复的通常是最有趣的讨论对象，因此我们倾向于关注在整个片段中反复出现的动机。
 
@@ -50,7 +57,9 @@ III. 曲式
 当人们最初被要求在一部作品中识别动机时，他们往往会选择太大的内容，比如整个主题。例 5 展示了 Ludwig van Beethoven 第五交响曲开头动机分析中的一个常见错误：将过长的片段识别为动机。更有用的方法请参见例 3 中的视频。
 
 例 5.
-[Beethoven, Symphony 5, I, mm. 1–13 (0:00–0:17)](https://open.spotify.com/track/1UcsVXabDRUNnSUl65zdBT?si=Uw6lKqqTR_uhD18RYsQjAA)
+
+![Beethoven, Symphony 5, I, mm. 1–13](../Graphics/Not_a_Motive-1.png)
+
 . 框起来的小节表示太长而不能被视为动机的内容。
 
 练习 1：动机分析
@@ -79,7 +88,11 @@ III. 曲式
 
 例 6. Donizetti《Me voglio fà 'na casa》的分节分析（0:00–0:43）。
 
+<iframe src="https://www.youtube.com/embed/_LuV3GKx5So" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
 例 7. Clara Schumann《钢琴三重奏 Op. 17, I》的分节分析（0:00–0:32）。
+
+<iframe src="https://www.youtube.com/embed/GOJuGtNGxfo" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 练习
 
@@ -90,25 +103,5 @@ III. 曲式
 - 有时人们会混淆"乐句"和"分句"这两个术语。通常当人们说"分句"时，他们指的是一个片段可能被塑造的方式（在哪里推动和拉伸时间，在哪里以及如何改变力度层次等），他们可能指也可能不指一个实际的乐句（以终止结束的完整思想）。↵
 
 ---
-
----
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://www.youtube.com/embed/VVgjj_7o8MM" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe src="https://www.youtube.com/embed/0mRzL4OaXXU" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe src="https://www.youtube.com/embed/vPGPRc6y_0s" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe src="https://www.youtube.com/embed/I7UfEZXIDcI" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe src="https://www.youtube.com/embed/8z6cr_C3q2A" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
 
 *原文: [Foundational Concepts for Phrase-Level Forms](https://viva.pressbooks.pub/openmusictheory/chapter/foundational-concepts) | CC BY-SA*

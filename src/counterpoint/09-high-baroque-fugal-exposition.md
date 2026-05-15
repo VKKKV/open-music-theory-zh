@@ -114,7 +114,7 @@ II. 对位法与华丽风格图式
 
 为了看这一切在实践中的运用，让我们看例 2：巴赫《平均律钢琴曲集》第一册中的 C 小调赋格（BWV 847）。
 
-
+<iframe src="https://musescore.com/user/32728834/scores/8534750/embed" width="100%" height="950" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 2. 约翰·塞巴斯蒂安·巴赫 C 小调赋格（BWV 847）的呈示部。
 
@@ -137,17 +137,7 @@ II. 对位法与华丽风格图式
 - 尝试写你自己的答题和对题。下面的模板文件提供了《平均律钢琴曲集》两册全部 48 首赋格的主题。提供了一个空白的第二谱表供你练习。（注意许多赋格主题的最后一个音符用无符干记谱来表示音高而不指定时值。）如果你对其中一些赋格很熟悉，你可能想练习你不太熟悉的那些。
 - 当你对写作答题和对题有信心时，试着写出一个完整的呈示部。同样，你可能希望练习你不太熟悉的赋格。
 
-对于第 3 和第 4 项，你可能希望将你的答案与巴赫的进行比较。注意巴赫的答案不是唯一可能的，所以不要期望写出完全相同的音乐。还要注意不是每首赋格都有正规的可倒影对题。这里有 .mscz 和 .pdf 格式的直接下载。
-
----
-
----
-
-## 🎵 音频与互动示例
-
-<iframe src="https://musescore.com/user/32728834/scores/8534750/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-*<https://musescore.com/user/32728834/scores/8534750>*
+对于第 3 和第 4 项，你可能希望将你的答案与巴赫的进行比较。注意巴赫的答案不是唯一的，所以不要期望写出完全相同的音乐。还要注意不是每首赋格都有正规的可倒影对题。这里有 .mscz 和 .pdf 格式的直接下载。
 
 
 *原文: [High Baroque Fugal Exposition](https://viva.pressbooks.pub/openmusictheory/chapter/high-baroque-fugal-exposition) | CC BY-SA*

@@ -23,7 +23,7 @@ IV. 自然音和声、临时主音化与转调
 
 突兀的转调通常被称为"直接转调"，因为作曲家直接转到新调。这些有时也被称为"乐句转调"，因为它们倾向于出现在乐句的边界处。要在分析中识别直接转调，只需标记新调，然后像例 1 中那样继续你的和声分析。
 
-
+<iframe src="https://musescore.com/user/32728834/scores/6279080/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 1. Joseph Bologne《弦乐四重奏 No. 4, I》中的直接转调，第 15–29 小节（0:27-0:56）。
 
@@ -31,7 +31,7 @@ IV. 自然音和声、临时主音化与转调
 
 作曲家可以使用各种技巧使转调更微妙，但其中更常见的方法之一是使用枢轴和弦（pivot chord）。枢轴和弦是同时属于原调和新调的自然音和弦。例 2 展示了我们使用一个特殊符号来分析枢轴和弦，上面的罗马数字标记该和弦在旧调中的身份，下面的罗马数字标记该和弦在新调中的身份。在例 2 的第 6 小节中，我们可以说"iv7 变成 ii7"。没有一种方法总是能找到枢轴和弦，但一种有帮助的策略是在旧调中分析直到它不再合理，然后退回一个和弦并尝试将其分析为你的枢轴和弦。如果那个和弦也不适合作为枢轴，再退回一个和弦。
 
-
+<iframe src="https://musescore.com/user/32728834/scores/6279089/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 2. Josephine Lang《Der Winter》中的枢轴和弦转调，第 1–12 小节。
 
@@ -42,6 +42,7 @@ IV. 自然音和声、临时主音化与转调
 虽然作曲家可以转调到任何地方，但某些转调比其他转调更常见，因为两个调共享的和弦数量不同。调号在一个升降号以内的调（例如 C 大调和 G 大调）被认为是近关系调，共享许多共同和弦。要找到给定主调的所有近关系调，请执行以下操作。你可能会发现参考五度圈（circle of fifths）很有用（例 3）。
 
 例 3.
+![五度圈](../Graphics/circle_of_fifths.jpg)
 五度圈。点击放大。
 
 - 创建一个三列两行的网格。
@@ -78,17 +79,23 @@ IV. 自然音和声、临时主音化与转调
 
 记住，最好的枢轴是在两个调中都是属前和弦的那些。
 
+![识别枢轴](../Graphics/pivots.png)
+
 例 5. 识别从 Dm 到 F 转调的枢轴。
 
 ## 选择进行
 
 我们的耳朵往往需要时间来适应听到新调。如果你希望你的新调听起来确定地建立起来，最好不要在枢轴之后太快终止。一个好的策略是使用欺骗性运动来避免在新调中终止，然后重试并成功实现终止（例 6）。注意例 6 以标准的主音扩展进行建立主调开始。
 
+<iframe src="https://musescore.com/user/32728834/scores/6279114/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 6. 写作一个转调乐句。
 
 # 临时主音化与转调之比较
 
 临时主音化和转调可以被视为基于相关片段长度和新调建立强度的光谱上的两个极点（例 7）。转调比临时主音化更长、更强。这里的"更强"是什么意思？最清晰的转调是那些通过终止建立新调，然后片段在终止之后继续在新调中的情况。较弱的转调可能只通过终止建立新调，然后直接回到主调。有时人们会以不同方式听同一段音乐：一些人的耳朵似乎比其他人更愿意接受调性变化。在你的分析中，你应该能够表达你对给定片段的听觉感受并解释你为什么这样听，你也应该能够理解为什么别人可能以不同方式听它。
+
+![临时主音化与转调之间的光谱](../Graphics/spectrum.png)
 
 例 7. 临时主音化与转调之间的光谱。
 
@@ -99,7 +106,7 @@ IV. 自然音和声、临时主音化与转调
 - 分析者意识到他们在短时间内反复写着 x/ii、y/ii、z/ii。
 - 罗马数字在主调中不再有功能意义，但即将到来的终止仍在主调中。
 
-
+<iframe src="https://musescore.com/user/32728834/scores/6279128/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 8. Joseph Bologne《弦乐四重奏 Op. 4, II》中的扩展临时主音化（0:25-0:39）。
 
@@ -108,25 +115,5 @@ IV. 自然音和声、临时主音化与转调
 - 扩展临时主音化与向近关系调的转调（.pdf, .docx）。要求学生回顾临时主音化、识别近关系调和枢轴和弦、进行分析，并创建一个转调进行。
 
 ---
-
----
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6279080/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6279089/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6279114/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6279128/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-📋 **章节播放列表**: <https://open.spotify.com/playlist/0EzPSaf9PEetN7TvfPTvt6?si=0ce8dbefee5b4f6d>
-
 
 *原文: [Extended Tonicization and Modulation to Closely Related Keys](https://viva.pressbooks.pub/openmusictheory/chapter/extended-tonicization-and-modulation-to-closely-related-keys) | CC BY-SA*

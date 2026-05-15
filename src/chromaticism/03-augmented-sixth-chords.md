@@ -18,6 +18,9 @@ V. 半音化
 法国 | $\mathrm{\hat1\ and\ \hat2}$ | do 和 re
 德国 | $\mathrm{\hat1\ and\ \downarrow\hat3\ (or\ \hat1\ and\ \uparrow\hat2)}$ | do 和 me（或 do 和 ri）
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6221729/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 1. 不同增六和弦的概述。
 
 # 语境
@@ -26,9 +29,15 @@ V. 半音化
 
 例 2 显示了增六度音程的具体音级及其解决。注意该音程中的两个音都是活跃音：每个音都从一个小二度解决到 sol $(\hat5)$。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6221834/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 2. 增六度音程的标准声部进行。
 
 增六和弦是利用半音化创造和声强化的另一种策略。它们主要用作下属和声（尽管它们也可以起装饰功能——见共同音和弦），并在终止点直接进行到原位 V。它们可以加强向半终止和完全终止的推动力，V 和弦可以有七音和/或包含 $\mathrm{cad.^6_4}$。例 3 在简单的终止语境中展示了所有三种类型（完全终止版本）。注意你可以预期 le $(\downarrow\hat6)$ 将是该和弦的低音，但 fi $(\uparrow\hat4)$ 可以在任何其他声部。Ger+6 通常后跟 $\mathrm{cad.^6_4}$，这有助于抵消本会在 G–D 和 F♯–C♯ 之间出现的平行纯五度；$\mathrm{cad.^6_4}$ 也可能跟随其他类型。在四声部织体中，Fr+6 和 Ger+6 不需要重复音；在只有三个独立音高的 It+6 中，主音通常被重复，因为它不是活跃音。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6221757/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 3. 三种增六和弦在终止语境中的应用。
 
@@ -40,6 +49,9 @@ V. 半音化
 
 当增六和弦在半终止之前出现时，它们类似于弗里吉亚半终止和/或哀歌低音进行（lament-bass progression），其中 iv6 和弦被增六和弦替代，将 fa 替换为 fi $(\hat4$ 与 $\uparrow\hat4)$。下面的例子展示了哀歌低音的几个版本，说明了对标准哀歌低音进行的一个小改动就可以引入增六和弦。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6221776/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 4. 在哀歌低音进行中用增六和弦替代 iv6 的例子。
 
 # 分析时识别增六和弦
@@ -50,11 +62,17 @@ V. 半音化
 
 当 Ger+6 在大调中使用时，me $(\downarrow\hat3)$ 通常被重新拼写，以避免在不同变音记号下连续两次写同一个字母名，因为 Ger+6 通常解决到 $\mathrm{cad.^6_4}$，而该和弦已经包含 mi $(\hat3)$。使用 ri $(\uparrow\hat2)$ 代替 me $(\downarrow\hat3)$ 也能更清晰地表示该声部的上行运动。例 5 显示了 Ger+6 的这种变体拼写。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6221772/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 5. 大调中 Ger+6 和弦的替代拼写。
 
 # 德国减三和弦
 
 在 19 世纪，作曲家引入了 Ger+6 的一种变体，用 fi $(\uparrow\hat4)$ 代替 le $(\downarrow\hat6)$ 作为低音（例 6）。这颠倒了增六度音程，使其变为减三度。Gero3 与 viio7/V 非常相似——唯一的区别是 Gero3 有 le $(\downarrow\hat6)$ 而 viio7/V 有 la $(\hat6)$——两者都解决到原位 V。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6221766/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 6. 使用 $\mathit{Ger^{o3}}$。
 
@@ -66,6 +84,9 @@ V. 半音化
 
 埃内斯托·纳扎雷特的探戈《划船》（例 7）在第 60 小节使用了 Ger+6 作为终止进行的一部分。注意从该小节开始的级进低音运动 la–le–sol $(\hat6-\\downarrow\\hat6-\\hat5)$，作为在低音中以级进方式接近增六和弦的技术。这首舞曲的旋律有许多重音经过音，因此 Ger+6 期间的 C♯ 在该语境中应被视为装饰音。与 Ger+6 的典型情况一样，后面的属和弦用 $\mathrm{cad.^6_4}$ 装饰。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/26284273/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 7. 埃内斯托·纳扎雷特，《划船》（1:48）。德国增六和弦作为终止进行的一部分。
 
 作业
@@ -74,27 +95,4 @@ V. 半音化
 ---
 
 ## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6221729/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6221834/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6221757/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6221776/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6221772/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6221766/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/26284273/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
 📋 **章节播放列表**: <https://open.spotify.com/playlist/5Io5TCN3k3QeFkAPGdUxsw?si=b266f0f52c724cdc>

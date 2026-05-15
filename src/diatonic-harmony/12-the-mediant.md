@@ -17,6 +17,7 @@ IV. 自然音和声、临时主音化与转调
 在为低音中的 $\hat{3}$（mi）配和声时，最常见的方式是使用 I6 和弦。然而，偶尔作曲家会选择使用 iii 而非 I6（例 1）。iii 和弦用在一个相对特定的情境中：在 I 和弦之后，为上方声部中下行的 ti/te $(\hat7/\downarrow\hat7)$ 配和声。它通常进行到一个强属前和弦，但也可以直接进行到 V，形成低音分解和弦 do–mi–sol $(\hat1-\hat3-\hat5)$，配以 I–iii–V，且通常处于根位。
 
 
+<iframe src="https://musescore.com/user/32728834/scores/6258824/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 1. 近藤浩治（Koji Kondo）《超级马里奥 3》中"竞技场主题"中的 iii 和弦（4:19–4:24）。
 
@@ -28,11 +29,15 @@ IV. 自然音和声、临时主音化与转调
 
 在小调进行（例 2c 和 2d）中，当 III 进行到属前和弦时，te $(\downarrow\hat{7})$ 下行到 le $(\downarrow\hat{6})$。注意 III 包含的是 te $(\downarrow\hat{7})$，而非 ti $(\uparrow\hat{7})$。也就是说，III 是大三和弦，而非增三和弦——如果使用 ti $(\uparrow\hat{7})$，则会成为增三和弦。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6258834/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例 2. 使用 iii 进行到强属前和弦的写作。
 
 例 3 表明 iii 也可以直接进行到 V。注意这种进行在小调中效果不佳，因为 III 包含 te $(\downarrow\hat{7})$，而 V 包含 ti $(\uparrow\hat{7})$，这两个音级的直接并置在西方古典音乐中不符合风格规范。
 
 
+<iframe src="https://musescore.com/user/32728834/scores/6258844/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例 3. 使用 iii 进行到 V 的写作。
 
@@ -45,18 +50,5 @@ IV. 自然音和声、临时主音化与转调
 ---
 
 ## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6258824/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6258834/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6258844/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
 📋 **章节播放列表**: <https://open.spotify.com/playlist/2XNToKwJashIJyeDofCHZS>
-
-
 *原文: [The Mediant Harmonizing Mi (3̂) in the Bass](https://viva.pressbooks.pub/openmusictheory/chapter/the-mediant) | CC BY-SA*
