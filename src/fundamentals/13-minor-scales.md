@@ -30,6 +30,8 @@ Paul McCartney 和 John Lennon 的《Yesterday》（1964年）片段。
 
 你可以在例2中从0:05开始听例1的音乐。注意人声中上行的小调音阶：
 
+<iframe src="https://www.youtube.com/embed/TQemQRL_YVQ" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
 例2. Paul McCartney 和 John Lennon 的《Yesterday》；从0:05开始听。
 
 在西方音乐中，小调通常（但并非总是！）用来描绘悲伤等负面情绪。因此，《Yesterday》这首关于分手后令歌者心碎的歌曲采用小调是非常恰当的。
@@ -37,6 +39,8 @@ Paul McCartney 和 John Lennon 的《Yesterday》（1964年）片段。
 # 自然小调
 
 自然小调形式的小调音阶由半音和全音按一定顺序排列而成，上行顺序为全‑半‑全‑全‑半‑全‑全，如例3所示。每个全音用方括号和"W"标记，每个半音用尖括号和"H"标记。仔细聆听例3，注意自然小调形式的半音和全音模式在上行和下行时是相同的。
+
+<iframe loading="lazy" src="https://musescore.com/user/32728834/scores/6825960/embed" width="100%" height="394" frameborder="0"></iframe>
 
 例3. G自然小调音阶。（实际音高为F自然小调。）
 
@@ -52,15 +56,21 @@ Paul McCartney 和 John Lennon 的《Yesterday》（1964年）片段。
 
 和声小调形式的小调音阶由半音和全音按一定顺序排列而成，上行顺序为全‑半‑全‑全‑半‑三个半音‑半（"三个半音"即三个半音的距离），如例4所示。弧形括号代表三个半音的距离（即一个全音加一个半音）。仔细聆听例4，注意和声小调形式的半音和全音模式在上行和下行时是相同的。
 
+<iframe loading="lazy" src="https://musescore.com/user/32728834/scores/6826003/embed" width="100%" height="394" frameborder="0"></iframe>
+
 例4. G和声小调音阶。（实际音高为F和声小调。）
 
 # 旋律小调
 
 旋律小调形式的小调音阶由半音和全音按一定顺序排列而成，上行顺序为全‑半‑全‑全‑全‑全‑半，下行顺序为全‑全‑半‑全‑全‑半‑全，如例5所示。聆听例5时，请注意旋律小调形式的上行和下行模式是不同的：上行模式是旋律小调特有的，而下行模式与自然小调形式相同。
 
+<iframe loading="lazy" src="https://musescore.com/user/32728834/scores/8455586/embed" width="100%" height="394" frameborder="0"></iframe>
+
 例5. G旋律小调音阶。（实际音高为F旋律小调。）
 
 例6展示了C音阶的四种版本——大调、自然小调、和声小调和旋律小调——并标出了音级。仔细聆听此例，注意各音阶之间的听觉差异。
+
+<iframe loading="lazy" src="https://musescore.com/user/32728834/scores/8383329/s/WuOIXN/embed" width="100%" height="630" frameborder="0"></iframe>
 
 例6. 大调、自然小调、和声小调和旋律小调音阶，均从C开始。
 
@@ -68,7 +78,7 @@ Paul McCartney 和 John Lennon 的《Yesterday》（1964年）片段。
 
 小调的音级、唱名（solfège）和音级名称与大调相似，但并不完全相同。例7总结了三种类型的小调音阶，并展示了每种的音级和唱名。注意音级与大调相同。最下面一行显示的唱名音节与大调唱名音节有几处不同，以反映小调的全音和半音模式。
 
-
+<iframe loading="lazy" src="https://musescore.com/user/32728834/scores/8383293/embed" width="100%" height="630" frameborder="0"></iframe>
 
 例7. 三种小调音阶的音级和唱名：a) 自然小调；b) 和声小调；c) 旋律小调。
 
@@ -137,8 +147,11 @@ B旋律小调音阶。
 
 如前所述，如果你知道给定调号对应的大调，可以从主音往下数三个半音来找到该调号的小调。例12按顺序展示了所有升号小调调号，例13按顺序展示了所有降号小调调号。
 
+[![升号小调调号：A、E、B、F♯、C♯、G♯、D♯和A♯小调。](../Graphics/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.51.08-PM-2-e1658435801975-300x229.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.51.08-PM-2-e1658435801975-300x229.png)
 例12.
 A、E、B、F♯、C♯、G♯、D♯和A♯小调的调号。
+
+[![降号小调调号：A、D、G、C、F、B♭、E♭和A♭小调。](../Graphics/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.57.09-PM-e1658435818939-300x225.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.57.09-PM-e1658435818939-300x225.png)
 例13.
 A、D、G、C、F、B♭、E♭和A♭小调的调号。
 
@@ -152,6 +165,8 @@ A、D、G、C、F、B♭、E♭和A♭小调的调号。
 
 五度圈（circle of fifths）既可以用于大调调号的视觉展示，也可以用于小调调号。每个调号都放在对应的大调和小调旁边。例14展示了小调和大调的五度圈：
 
+[![大调和小调的五度圈。](../Graphics/app/uploads/sites/12/2020/05/Circle_of_fifths_deluxe_de-1024x863.jpg)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Circle_of_fifths_deluxe_de-1024x863.jpg)
+
 例14.
 大调和小调的五度圈。
 
@@ -163,6 +178,7 @@ A、D、G、C、F、B♭、E♭和A♭小调的调号。
 
 例15展示了Louise Reichardt（1779–1826）的一首名为"Durch die bunten Rosenhecken"（"穿过五彩的玫瑰树篱"）的歌曲的前三小节：
 
+[![Durch die bunten Rosenhecken的前三小节，圈出了F音。](../Graphics/app/uploads/sites/12/2020/05/reichardt-300x92.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/reichardt-300x92.png)
 例15.
 ["Durch die bunten Rosenhecken"的前三小节。](https://open.spotify.com/track/6VaRf356HZBxo5RIryWiV4?si=9b3f8b4d00ea4660)
 
@@ -234,6 +250,14 @@ A、D、G、C、F、B♭、E♭和A♭小调的调号。
 <iframe src="https://musescore.com/user/32728834/scores/8383293/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 *<https://musescore.com/user/32728834/scores/8383293>*
+
+<iframe src="https://musescore.com/user/32728834/scores/8455586/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8455586>*
+
+<iframe src="https://musescore.com/user/32728834/scores/8383329/s/WuOIXN/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8383329>*
 
 📋 **章节播放列表**: <https://open.spotify.com/playlist/2wylP85ygXkX1tWtUPqcgm>
 

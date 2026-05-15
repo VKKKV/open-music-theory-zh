@@ -13,15 +13,24 @@ XI. 节奏与节拍
 
 最著名的、明确记谱的超节拍之一是路德维希·凡·贝多芬第九交响曲中的"ritmo de tre battute"（三小节节奏）段落。这个标记字面意思是"三小节/拍子的节奏"，因此这里贝多芬明确表示他意图让小节以三拍子分组。这样做时，该指示也明确了一个假设，即在此之前分组一直是二拍子和四拍子。例1再现了《其他节奏要素》章节中看到的四小节分组：
 
+
+<iframe src="https://musescore.com/user/32728834/scores/8422604/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例1. 来自《其他节奏要素》章节的贝多芬第9交响曲第四乐章开头的4小节超节拍。
 
 现在例2展示了稍后的"ritmo de tre battute"段落（从第152小节起），带有可比较的"超节拍计数"以及（编辑添加的）双小节线来显示每组3小节。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8891598/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例2. 第152小节起的3小节超节拍："ritmo de tre battute。"
 
 注意这里我们讨论的是分组的周期性（periodicity）：即三拍子或四拍子分组。关于相位（phase）还有很多可以说：即循环中的哪个小节应计为"1"。虽然这个乐章中第一小节到第二小节之间的属到主的进行确实可能让你想要将相位推迟一小节开始，但所显示的相位有很多理由支持。
 
 最后，为了比较，例3展示了同一个"ritmo de tre battute"段落，明确以$\mathbf{^9_4}$重新记谱，将两个三拍子分组的节拍层次都置于记谱节拍之内。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/11018989/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例3. 来自例2的3小节超节拍，以$\mathit{^9_4}$重新记谱。
 
@@ -42,6 +51,9 @@ XI. 节奏与节拍
 - 在第14弦乐四重奏（作品131号）第四乐章中，有一段$\mathbf{^9_4}$拍子的"Adagio ma non troppo e semplice"段落（从第186小节起），因此我们立即就有了两个层次的三拍子（3×3个四分音符）。后来，它短暂使用八分音符三连音，持续时间足以被称为一个节拍层次（第223-225小节，即最后的Allegretto再现前5-7小节）。
 - 贝多芬最后一首钢琴奏鸣曲（第32号，作品111号）的第二乐章是一个复合拍号中的"Arietta"：起初是$\mathbf{^{\:9}_{16}}$，但也有$\mathbf{^{\:6}_{16}}$，以及一些段落的$\mathbf{^{12}_{16}}$。此外，其中一些段落使用十六分音符三连音来提供另一个三拍子层次。当这发生在$\mathbf{^{\:9}_{16}}$中时，我们有了三个三拍子分组层次，可以写作$\mathbf{^{27}_{32}}$（例4）。话虽如此，超节拍是有规律的，所以3×3×3似乎是目前的极限。而$\mathbf{^{\:6}_{16}}$和$\mathbf{^{12}_{16}}$中的三连音添加了另一个三拍子分组，但在节拍层次中是二拍子分组。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/11019235/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例4. 贝多芬作品111中的三组三拍子分组（实际上是27拍！）。
 
 # 合理的限度与节拍心理学
@@ -51,6 +63,9 @@ XI. 节奏与节拍
 # 不受限制，也许也不那么明智
 
 正在阅读本文的作曲家、理论家，尤其是作曲家-理论家可能会好奇极端情况。尽管节拍与曲式之间存在心理极限，那么结构极限是什么，最极致的程度？换句话说，我们能叠加多少层三拍子分组？Mark Gotham的《谢尔宾斯基三角》（Sierpiński's Triangle）（例5）是一首在每个结构层次上都以三拍子分组的作品，从单个音符一直到最高的形式单位。标题"谢尔宾斯基三角"指的是一种三角形分形图案，具有相似的结构。这首音乐作品是一组名为《镶嵌》（Tesselations）的套曲的第一乐章。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8920656/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例5. 在Mark Gotham的《谢尔宾斯基三角》中，从节拍到曲式全部采用三拍子分组的创作计划（下载乐谱）。
 
@@ -72,23 +87,5 @@ XI. 节奏与节拍
 ---
 
 ---
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8422604/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8891598/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/11018989/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/11019235/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8920656/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
 
 *原文: [Hypermeter](https://viva.pressbooks.pub/openmusictheory/chapter/hypermeter) | CC BY-SA*

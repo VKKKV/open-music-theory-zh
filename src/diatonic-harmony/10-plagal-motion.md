@@ -13,6 +13,9 @@ John Peterson
 
 在之前的内容中，我们看到作为下属功能的和弦，如 ii 和 IV，通常用于加强乐句向属功能方向的运动，通常在乐句结尾处。在本章中，我们来看一种特殊情况，即 IV 不作为下属功能，而是用于延续 I，这产生了变格进行。在分析中，我们将变格（IV）放在括号中，以区别于 IV 作为下属功能的更常见用法。变格进行最常见于两个位置来延续主功能：在正格终止之后（如例1所示），或在乐句开头代替涉及属功能和弦的更常见主功能延续。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6252227/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例1.亨德尔《弥赛亚》"哈利路亚合唱"中完满正格终止之后的变格进行（3:02-3:29）。
 
 变格进行与变格终止
@@ -29,11 +32,17 @@ John Peterson
 
 最常见的do$(\hat{1}$)在高音声部，考虑到变格进行出现在完满正格终止之后，旋律已经完成了向do$(\hat{1}$)的旅程，这是合理的。一如既往，遵循典型的书写程序。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6252232/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例2.使用原位和弦书写变格进行。
 
 # 在乐句开头书写变格进行
 
 虽然原位版本的变格进行（如例2所示）有时也出现在乐句开头，但例3显示 (IV) 也可以进行到 I6。这里，注意 (IV) 和 I6 之间的平行进行：如果例3中的中音声部进行到 G（括号中所示）而非 B♭，就会与低音产生平行八度。记住在乐句开头，主功能由转位 V7 延续要比 (IV) 常见得多。当你在乐句开头看到fa–mi$(\hat4-\hat3$时，你的直觉应该仍然是使用 $\mathrm{V^4_2-I^6}$ 而非 $\mathrm{(IV)-I^6}$。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/6252238/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例3.使用转位主和弦书写变格进行。
 
@@ -48,20 +57,5 @@ John Peterson
 ---
 
 ---
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6252227/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6252232/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/6252238/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-📋 **章节播放列表**: <https://open.spotify.com/playlist/6UA0oza0ErEfPZWRnIWLIE>
-
 
 *原文: [Plagal Motion as a Form of Prolongation](https://viva.pressbooks.pub/openmusictheory/chapter/plagal-motion) | CC BY-SA*

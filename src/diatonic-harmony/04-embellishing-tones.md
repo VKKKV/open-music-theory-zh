@@ -20,6 +20,8 @@ John Peterson
 例2.
 大多数装饰音的常见三音布局。
 
+[![大多数装饰音的常见三音布局](../Graphics/app/uploads/sites/12/2020/07/Generic_Embellishing_Tone_Layout.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/Generic_Embellishing_Tone_Layout.png)
+
 在几乎所有情况下，装饰音是一个三音手势的中间音，其中第一个和最后一个音与低音协和（例2）。装饰音本身可以与低音协和或不协和。然而在几乎所有情况下，装饰音是一个不属于底层和弦的音。
 
 # 经过音、邻音：级进运动的装饰音

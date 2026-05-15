@@ -23,6 +23,8 @@ Chelsey Hamm
 [![一个戴帽子和围巾的雪人。](../Graphics/app/uploads/sites/12/2022/07/Snowperson-300x300.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/Snowperson-300x300.png)
 例2.
 一个雪人。
+
+[![标注了根音、三音和五音的三和弦：C是根音，E是三音，G是五音。](../Graphics/app/uploads/sites/12/2019/05/Screen-Shot-2020-08-17-at-1.39.09-PM-300x75.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-08-17-at-1.39.09-PM.png)
 例3.
 标注了根音、三音和五音的三和弦。
 
@@ -80,6 +82,7 @@ Chelsey Hamm
 
 例8展示了D大三和弦的过程：
 
+[![1. D3。2. 在D3上叠加F3和A3。3. D大调调号：两个升号。4. D3、F♯3和A3。](../Graphics/app/uploads/sites/12/2019/05/d-major-1024x188.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/d-major.png)
 例8.
 用四个步骤画一个D大三和弦。
 
@@ -90,6 +93,7 @@ Chelsey Hamm
 
 让我们对A♭小三和弦（A♭mi）完成这个过程，如例9所示。
 
+[![1. A♭4。2. 在A♭4上叠加C5和E5。3. A♭大调调号：四个降号。4. A♭4、C5、E♭5。5. A♭4、C♭5、E♭5。](../Graphics/app/uploads/sites/12/2019/05/ab-minor-1024x119.png)](https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/ab-minor.png)
 例9.
 用五个步骤画一个A♭小三和弦。
 
@@ -204,6 +208,22 @@ Chelsey Hamm
 <iframe src="https://musescore.com/user/32728834/scores/6876492/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 *<https://musescore.com/user/32728834/scores/6876492>*
+
+<iframe src="https://musescore.com/user/32728834/scores/8514212/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8514212>*
+
+<iframe src="https://musescore.com/user/32728834/scores/8456477/s/Orwx2V/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8456477>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6839467/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6839467>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6839470/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6839470>*
 
 
 **互动练习**（需网络，原站加载）:

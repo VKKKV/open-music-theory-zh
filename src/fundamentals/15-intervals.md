@@ -21,13 +21,19 @@ Chelsey Hamm 和 Bryn Hughes
 
 音程可以是旋律性的（分别演奏或演唱）或和声性的（同时演奏或演唱）。在例1中，第一小节中的音符同时发声（和声性的），而在第二小节中，它们分别发声（旋律性的）。
 
+<iframe src="https://musescore.com/user/32728834/scores/8418647/s/H5aOaq/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例1. 一个和声音程和一个旋律音程。
 
 每个音程都有一个度数和一个性质。度数是两个音符在五线谱上的距离——即两个音符之间的线和间的数量。度数用阿拉伯数字（2、3、4等）书写；然而，用序数词读出（second、third、fourth、fifth、sixth、seventh等）。计算度数时始终从"一"开始。例2展示了C大调音阶内的八个度数。如你所见，度数用序数词标记，但有两个例外：在同一线上或间上的两个音符之间的音程称为"一度"而非"第一度"，相隔八个线和间的音符被称为"八度"而非"第八度"。
 
+<iframe src="https://musescore.com/user/32728834/scores/8418638/s/e4jxEI/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例2. 音程的度数。
 
 度数被视为通用的。换句话说，无论你对音符应用什么变音记号——度数始终相同。例3演示了这一点：尽管变音记号不同，每个音程都是三度（或"通用三度"），因为两个音符之间有三个线/间。
+
+<iframe src="https://musescore.com/user/32728834/scores/8418665/s/n71TMI/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例3. 变音记号不影响音程的通用度数。
 
@@ -72,6 +78,8 @@ Chelsey Hamm 和 Bryn Hughes
 
 例5展示了两个音程。尝试识别它们的度数和性质：
 
+<iframe src="https://musescore.com/user/32728834/scores/6836733/s/wud8Ld/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例5. 两个音程。
 
 在例5a中，音符是高音谱号中的F和C。以下是你如何使用"大调音阶"方法来识别音程：
@@ -104,15 +112,21 @@ Chelsey Hamm 和 Bryn Hughes
 
 音程的低音也可以改变。在例6b的第一小节中，纯五度F–C通过将F降低一个半音到F♭而变为增五度，使音程比纯五度大一个半音。在例6b的第二小节中，大六度G–E通过将G降低一个半音到G♭而变为增六度。
 
+<iframe src="https://musescore.com/user/32728834/scores/8418677/s/-x_9Yz/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例6. 通过（a）升高高音和（b）降低低音产生的增音程。
 
 减音程比纯音程或小音程小一个半音。在例7a的第一小节中，纯五度F–C通过将高音降低到C♭而变小一个半音，形成减五度（也称为三全音，通常缩写为d5或o5）。在第二小节中，G–E构成大六度，当高音降低一个半音时变为小六度。小六度在高音再次降低到E𝄫时变为减六度。注意将音程缩小一个半音会将纯和小音程变为减音程，但会将大音程变为小音程。
 
 同样，被改变的并不总是高音。在例7b中，纯五度F–C在低音上移一个半音到F♯时变为减音程。在第二小节中，大六度G–E在G上移一个半音到G♯时首先变为小六度。然后这个小音程在G♯移到G𝄪时变为减音程（在第三小节中），进一步将音程缩小了另一个半音。
 
+<iframe src="https://musescore.com/user/32728834/scores/6836745/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例7. 通过（a）降低高音和（b）升高低音产生的减音程。
 
 例8再次演示并总结了音程的相对大小。本例中的每个括号都比其左右的括号大或小一个半音。在例8a中，通过用变音记号改变高音来改变音程性质。如你所见，比纯或大音程大一个半音的音程是增的；比大音程小一个半音的音程是小的；比纯或小音程小一个半音的音程是减的。例8b概述了与10a相同的性质，只是用变音记号改变的是低音而非高音。
+
+<iframe src="https://musescore.com/user/32728834/scores/8418728/s/SPtiOU/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例8. 音程的相对大小，（a）改变高音和（b）改变低音。
 
@@ -129,6 +143,8 @@ Chelsey Hamm 和 Bryn Hughes
 # 复音程
 
 上面讨论的音程，从一度到八度，是单音程，其度数为八度或更小。任何大于八度的音程都是复音程。在例9中，音符A和C首先构成小三度（单音程）。当C在第二组音符中升高一个八度时，音程变为小十度（复音程）。单音程及其对应的复音程的性质保持不变。
+
+![例9. 单音程和复音程。](images/15-intervals/simple-v-compound-300x140.png)
 
 例9.
 单音程和复音程。
@@ -148,6 +164,8 @@ Chelsey Hamm 和 Bryn Hughes
 
 音程转位发生在两个音符被"颠倒"时。在例10中，例如，底部为C、顶部为E的音程通过将C上移一个八度来转位。你可能会想：为什么这很重要？有两个原因：第一，因为转位的音符对共享许多有趣的属性（作曲家有时会利用这些属性），第二，因为转位一对音符可以帮助你在不想从给定的低音开始时识别或书写一个音程。
 
+![例10. 音程转位。](images/15-intervals/inversion-3-300x148.png)
+
 例10.
 音程转位。
 
@@ -165,6 +183,8 @@ Chelsey Hamm 和 Bryn Hughes
 - 增音程转位为减音程（减音程转位为增音程）。
 
 有了这些信息，你现在甚至可以在不看五线谱的情况下计算音程的转位。例如：大七度转位为小二度，增六度转位为减三度，纯四度转位为纯五度。
+
+![例11. 转位一个音程可能通过将更简单的音符放在底部来帮助识别。](images/15-intervals/imaginary-300x113.png)
 
 例11.
 转位一个音程可能通过将更简单的音符放在底部来帮助识别。
@@ -209,6 +229,8 @@ P1, P8, P5 | 减音程
 - 除两个外，所有二度都是大二度：E–F和B–C。
 - 除三个外，所有三度都是小三度：C–E、F–A和G–B是大三度。
 - 除一个外，所有四度都是纯四度：F–B是增四度（三全音）。
+
+<iframe src="https://musescore.com/user/32728834/scores/6836757/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例14. 白键二度、三度和四度。
 

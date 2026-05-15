@@ -122,10 +122,10 @@ Joan Tower 经常使用八声音阶集合，在她的作品《银梯》（Silver
 6 | (2, 2, 1, 1), (2, 2, 1, 1) | 6 | 4 |
 7 | (1, 1, 1, 2, 1), (1, 1, 1 , 2, 1) | 6 | 5 |
 
+例 9. 梅西安的有限移位调式。
+
 
 <iframe src="https://musescore.com/user/32728834/scores/6925817/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-例 9. 梅西安的有限移位调式。
 
 例 10. 从 C 开始的梅西安有限移位调式。
 

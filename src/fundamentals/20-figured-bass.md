@@ -20,11 +20,19 @@ Chelsey Hamm
 
 数字低音使用阿拉伯数字和一些符号来表示低音上方的音程，然后由音乐家将其解释为和弦。例1展示了三和弦的完整数字低音，以及相同和声的和弦符号：
 
+<iframe src="https://musescore.com/user/32728834/scores/6839460/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6839460>*
+
 例1. 三和弦的完整数字低音以及和弦符号。
 
 如例1所示，原位三和弦在低音上方有三度和五度（用"$\begin{smallmatrix}5\\3\end{smallmatrix}$"表示）。第一转位三和弦在低音上方有三度和六度（用"$\begin{smallmatrix}6\\3\end{smallmatrix}$"表示），第二转位三和弦在低音上方有四度和六度（用"$\begin{smallmatrix}6\\4\end{smallmatrix}$"表示）。在数字低音中，较大的数字总是出现在较小的数字上方。
 
 为了进一步节省时间和纸张空间，作曲家和音乐家缩写了三和弦和七和弦的完整数字低音。例2展示了我们今天通常使用的三和弦缩写数字低音，以及它们的和弦符号：
+
+<iframe src="https://musescore.com/user/32728834/scores/6839461/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6839461>*
 
 例2. 三和弦的缩写数字低音。
 
@@ -36,6 +44,10 @@ Chelsey Hamm
 
 
 
+<iframe src="https://musescore.com/user/32728834/scores/6839462/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6839462>*
+
 例3. 一些带有数字低音的三和弦及其实现。
 
 如例3第一小节所示，一个E♭旁边没有数字低音。因此，我们可以假设我们正在实现一个E♭大三和弦的原位。这个和弦在下一小节中被实现（用音符写出来）。在第三小节中，我们在低音音G下方看到数字"6"。我们可以理解这个记号意味着我们在低音音G上方实现一个六度和一个三度。这个和弦在下一小节中被实现（一个E♭大三和弦的第一转位）。在第五小节中，我们在低音音B♭下方看到数字"$\begin{smallmatrix}6\\4\end{smallmatrix}$"。这个记号意味着我们在低音音B♭上方实现一个六度和一个四度。这个和弦在下一小节中被实现（一个E♭大三和弦的第二转位）。
@@ -44,7 +56,9 @@ Chelsey Hamm
 
 例4展示了七和弦的完整数字低音，以及相同和声的和弦符号：
 
+<iframe src="https://musescore.com/user/32728834/scores/6843780/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
+*<https://musescore.com/user/32728834/scores/6843780>*
 
 例4. 七和弦的完整数字低音以及和弦符号。
 
@@ -52,11 +66,19 @@ Chelsey Hamm
 
 例5展示了音乐家今天在和弦符号下方使用的七和弦缩写数字低音：
 
+<iframe src="https://musescore.com/user/32728834/scores/6843782/s/mesgHK/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6843782/s/mesgHK>*
+
 例5. 七和弦的缩写数字。
 
 如例5所示，原位七和弦用上标数字"7"缩写，而数字"$^6_5$"表示第一转位七和弦。第二转位七和弦用数字"$^4_3$"表示，数字"$^4_2$"表示第三转位七和弦。有时，在较老风格的数字低音记谱法中，第三转位七和弦简单地记为上标"2"。
 
 你可以用与三和弦类似的方式来实现转位七和弦的数字低音。要实现一个转位七和弦，只需在低音音上方写出指定的音程，记住完整数字通常是缩写的。例6展示了几个七和弦的实现过程：
+
+<iframe src="https://musescore.com/user/32728834/scores/26579989/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/26579989>*
 
 例6. 一些带有数字低音的七和弦及其实现。
 
@@ -66,18 +88,34 @@ Chelsey Hamm
 
 为了表示音符的半音变化，音乐家在被改变的数字前加上变音记号（♭、♯、♮）。例7展示了一些带有变音记号的数字的实现：
 
+<iframe src="https://musescore.com/user/32728834/scores/6877976/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6877976>*
+
 例7. 带有变音记号的数字的实现。
 
 音乐家也使用穿过数字的斜线或数字前的加号来表示将该音升高半音。这些符号及其实现在例8中展示：
+
+<iframe src="https://musescore.com/user/32728834/scores/6878013/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6878013>*
 
 例8. 带有斜线和加号的数字的实现。
 
 孤立的变音记号（hanging accidental）也很常见。这些是单独出现的变音记号，可能伴随其他数字或符号，也可能不伴随。在这些情况下，变音记号被认为适用于低音上方的三度，如例9所示：
 
+<iframe src="https://musescore.com/user/32728834/scores/6878023/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6878023>*
+
 例9. 孤立变音记号的实现。
 
 数字低音中还有另一个常见的符号。水平线表示给定低音上方音符的变化，或和声的变化。例10展示了几个带有水平线的数字的实现：
 
+
+<iframe src="https://musescore.com/user/32728834/scores/26580793/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/26580793>*
 
 
 例10. 带有水平线的数字的实现。
@@ -88,6 +126,10 @@ Chelsey Hamm
 
 罗马数字经常与数字配对使用，以表示和弦转位和某些装饰音。例如，上标数字"6"可以与罗马数字"I"配对，表示主三和弦的第一转位，而数字"$^4_3$"与罗马数字"V"配对时表示第二转位属七和弦。然而，并非所有教师都使用带罗马数字的数字，因此你应该只在教师指示这样做时才使用。例11展示了一些带有数字的罗马数字的实现：
 
+
+<iframe src="https://musescore.com/user/32728834/scores/6869635/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6869635>*
 
 
 例11. 带有数字的罗马数字的实现。
@@ -131,9 +173,41 @@ Chelsey Hamm
 
 *<https://musescore.com/user/32728834/scores/6839461>*
 
+<iframe src="https://musescore.com/user/32728834/scores/6839462/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6839462>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6843780/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6843780>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6843782/s/mesgHK/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6843782/s/mesgHK>*
+
+<iframe src="https://musescore.com/user/32728834/scores/26579989/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/26579989>*
+
 <iframe src="https://musescore.com/user/32728834/scores/6877976/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 *<https://musescore.com/user/32728834/scores/6877976>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6878013/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6878013>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6878023/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6878023>*
+
+<iframe src="https://musescore.com/user/32728834/scores/26580793/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/26580793>*
+
+<iframe src="https://musescore.com/user/32728834/scores/6869635/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6869635>*
 
 
 *原文: [Figured Bass](https://viva.pressbooks.pub/openmusictheory/chapter/figured-bass) | CC BY-SA*

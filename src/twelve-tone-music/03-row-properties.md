@@ -16,6 +16,9 @@ IX. 十二音音乐
 
 虽然所有标准十二音音列都包含所有十二个不同的音高，但只有一些音列同时包含相邻音高之间所有十一个不同的音程（例1）。具有这种全音程属性的有1,928种不同的音列形式，但同样，其中一些比其他更受作曲家青睐。这些音列的一个定义性属性是，围绕中心对的每对音符之间都有一个三全音，即音符1和12、2和11、3和10、4和9、5和8以及6和7之间。例如，在例1中，音列以A开始以D♯结束，依此类推。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/8862120/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例1. Luigi Nono《悬而未决之歌》（Il Canto Sospeso）中的一个全音程音列。
 
 这个全音程音列的例子是所谓的"祖母和弦"（Grandmother chord，归功于Nicolas Slonimsky）的线性排列。要产生这一音高序列，先上行一个半音（音程级1），然后下行一个全音（音程级10），继续交替奇数和偶数音程，奇数音程逐渐增大，偶数音程逐渐缩小。因此，产生的音高序列可以看作是两条交错的半音音阶（如例1所示），本质上是一个半音楔形（chromatic wedge），因此可以在巴赫（BWV 548）和肖斯塔科维奇（《二十四首前奏曲与赋格》，作品87，第15首）的赋格等调性作品中找到先例。[1]
@@ -27,6 +30,9 @@ IX. 十二音音乐
 从重叠转向离散片段时，我们也倾向于将注意力从"所有"转向"仅"。具体来说，一些序列作曲家的执念是找到并使用具有多个仅属于一个音级集合的实例的音列形式。
 
 例2是Anton Webern弦乐四重奏（作品28）的一个经典例子。音符下方的括号表示三个属于同一集合级（set class）的离散四音组：(0123)，一个半音四音组。上方的连音线显示离散二音组也有类似的统一性，它们都是半音。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8862261/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例2. Anton Webern弦乐四重奏作品28中的一个音列，分为离散片段。注意集合级和音程的有限数量。
 
@@ -45,6 +51,9 @@ IX. 十二音音乐
 - P0的最后四个音高（例子中的最后小节）是P4的中间四个音高。这用深蓝色显示。
 
 我们说这些四音组是不变片段（invariant segments）。这些片段之所以保持不变，是因为它们彼此之间的关系与音列之间的关系相同：因为四音组通过T8相关联，当整个音列通过T8移位时，那些四音组被"保持不变"。换句话说，当第一个四音组上移四个半音时，它变成了最后一个四音组，所以当整个音列通过该音程移位时也会发生同样的事情。
+
+
+<iframe src="https://musescore.com/user/32728834/scores/8862222/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 例3. Anton Webern弦乐四重奏作品28中的片段不变性。
 
@@ -86,6 +95,9 @@ IX. 十二音音乐
 
 例4再次展示了Webern的作品28音列（上行谱表），并通过颠倒每对音高创建了一个新的音列（下行谱表）。第二种情况与第一种具有相同的二音组和四音组片段，但这些片段的内部顺序改变了。根据定义，我们仍然有一个包含所有十二个音高的音列，但一个不同的音列。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/8862252/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例4. 从Anton Webern弦乐四重奏作品28的音列创建的偏序重排音列。
 
 我们提供Webern的例子作为说明；实际上，这是Milton Babbitt后来引入的概念，重排的种类可以变得更加复杂。虽然这种做法明显偏离了十二个音高固定顺序的"严格"定义，但它们的共同点是对完整半音集合（aggregate）的不断翻转。此外，即使在"严格"序列主义中，作曲家仍然使用和弦（同时发声的几个音高），这必然需要更多地以偏序的而非严格序列的方式来思考。简而言之，至少某种形式的这种思维确实非常非常普遍。
@@ -126,20 +138,5 @@ Elizabeth Lutyens, Chamber Concerto, Op. 8, no. 1, mvmt. I: | 3–2–5–6–11
 ---
 
 ---
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8862120/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8862261/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8862222/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8862252/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
 
 *原文: [Row Properties](https://viva.pressbooks.pub/openmusictheory/chapter/row-properties/) | CC BY-SA*

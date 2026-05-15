@@ -23,6 +23,8 @@ Chelsey Hamm
 例2.
 标注了根音、三音、五音和七音的七和弦。点击放大。
 
+![例2 — 标注了根音、三音、五音和七音的七和弦](images/17-seventh-chords/chord-members.png)
+
 与三和弦一样，封闭间距叠加的七和弦最低音称为根音，其他音符根据它们与根音之间的通用音程命名，如例2所示：三音、五音和七音。
 
 # 七和弦性质与命名
@@ -84,9 +86,17 @@ Chelsey Hamm
 
 例6. 大调中的七和弦性质。
 
+<iframe src="https://musescore.com/user/32728834/scores/8514077/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8514077>*
+
 七和弦也可以建立在小调音阶的任何音符上。例7在G小调中，只包含一个建立在sol$(\hat5)$上的七和弦和一个建立在ti$(\hat7)$上的七和弦。这些七和弦通常包含升高导音——ti而非te$(\uparrow\hat7$ 而非 $\hat7)$。在例7中，建立在do和fa$(\hat1$ 和 $\hat4)$上的七和弦有小三和弦和小七度，而建立在sol$(\hat5)$上带有升高导音的七和弦有大三和弦和小七度（属七和弦）。建立在me和le$(\hat3$ 和 $\hat6)$上的七和弦有大三和弦和大七度，而建立在re$(\hat2)$上的是半减的（包含减三和弦和小七度），建立在ti$(\uparrow\hat7)$上的是全减的（包含减三和弦和减七度）。
 
 例7. 小调中的七和弦性质。
+
+<iframe src="https://musescore.com/user/32728834/scores/8514209/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/8514209>*
 
 # 拼写七和弦
 
@@ -104,6 +114,8 @@ Chelsey Hamm
 例8.
 用四个步骤拼写D大-大七和弦。
 
+![例8 — 用四个步骤拼写D大-大七和弦](images/17-seventh-chords/dmaj.png)
+
 - 音符D，和弦的根音，被画在五线谱上。
 - 画了一个加长雪人——F、A和C，D上方的通用三度、五度和七度的音符。
 - 回忆了D大调的调号。D大调有两个升号，F♯和C♯。
@@ -113,6 +125,8 @@ Chelsey Hamm
 
 例9.
 用六个步骤拼写A♭全减七和弦。点击放大。
+
+![例9 — 用六个步骤拼写A♭全减七和弦](images/17-seventh-chords/abdim7.png)
 
 - 写下音符A♭，因为它是三和弦的根音。
 - 画了一个加长雪人：添加了C、E和G，因为它们分别是A♭上方的通用三度、五度和七度。
@@ -135,6 +149,10 @@ Chelsey Hamm
 
 例10. 一个用于识别的原位七和弦。
 
+<iframe src="https://musescore.com/user/32728834/scores/6843785/s/Ml4Mxs/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6843785/s/Ml4Mxs>*
+
 要识别这个七和弦：
 
 - 因为和弦是原位，根音是最低音，C♯。
@@ -147,6 +165,10 @@ Chelsey Hamm
 与三和弦一样，七和弦的识别不受音符的重复或开放间距的影响（即使跨越多个谱号）。例11展示了两个带有重复的开放间距的七和弦。只需想象或写出七和弦封闭间距且无重复的音符即可识别这些和弦，如我们之前所做的。
 
 例11. 两个带有重复的开放间距七和弦。
+
+<iframe src="https://musescore.com/user/32728834/scores/6843788/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+*<https://musescore.com/user/32728834/scores/6843788>*
 
 你可以通过以下练习练习识别七和弦：
 

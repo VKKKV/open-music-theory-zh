@@ -18,6 +18,9 @@ Mark Gotham
 
 这些类别在例1中展示，并在下面的章节中讨论。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/8135649/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例1. 按类型分类的中音关系总结。
 
 # 自然音中音（一级）
@@ -63,6 +66,9 @@ A♭mi | 双半音化 | n/a | PLP
 
 理论够多了！让我们以Augusta Mary Anne Holmès的一首歌曲中精彩的中音关系例子作为结束。
 
+
+<iframe src="https://musescore.com/user/32728834/scores/5879039/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
 例2. Augusta Mary Anne Holmès 的"L'Or"中的中音关系。
 
 扩展阅读
@@ -83,14 +89,5 @@ A♭mi | 双半音化 | n/a | PLP
 ---
 
 ---
-
-## 🎵 音频与互动示例
-
-
-<iframe src="https://musescore.com/user/32728834/scores/8135649/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-
-<iframe src="https://musescore.com/user/32728834/scores/5879039/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
 
 *原文: [Mediants](https://viva.pressbooks.pub/openmusictheory/chapter/mediants) | CC BY-SA*
