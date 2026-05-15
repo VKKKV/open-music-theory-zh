@@ -239,25 +239,15 @@ A、D、G、C、F、B♭、E♭和A♭小调的调号。
 
 <iframe src="https://www.youtube.com/embed/TQemQRL_YVQ" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://musescore.com/user/32728834/scores/6825960/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6825960>*
 
-<iframe src="https://musescore.com/user/32728834/scores/6826003/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6826003>*
 
-<iframe src="https://musescore.com/user/32728834/scores/8383293/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/8383293>*
 
-<iframe src="https://musescore.com/user/32728834/scores/8455586/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/8455586>*
 
-<iframe src="https://musescore.com/user/32728834/scores/8383329/s/WuOIXN/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/8383329>*
 
 📋 **章节播放列表**: <https://open.spotify.com/playlist/2wylP85ygXkX1tWtUPqcgm>
 

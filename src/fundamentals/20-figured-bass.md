@@ -163,51 +163,31 @@ Chelsey Hamm
 
 ---
 
-## 🎵 音频与互动示例
+## 🎵 
 
-<iframe src="https://musescore.com/user/32728834/scores/6839460/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+音频与互动示例
 
-*<https://musescore.com/user/32728834/scores/6839460>*
 
-<iframe src="https://musescore.com/user/32728834/scores/6839461/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6839461>*
 
-<iframe src="https://musescore.com/user/32728834/scores/6839462/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6839462>*
 
-<iframe src="https://musescore.com/user/32728834/scores/6843780/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6843780>*
 
-<iframe src="https://musescore.com/user/32728834/scores/6843782/s/mesgHK/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6843782/s/mesgHK>*
 
-<iframe src="https://musescore.com/user/32728834/scores/26579989/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/26579989>*
 
-<iframe src="https://musescore.com/user/32728834/scores/6877976/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6877976>*
 
-<iframe src="https://musescore.com/user/32728834/scores/6878013/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6878013>*
 
-<iframe src="https://musescore.com/user/32728834/scores/6878023/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6878023>*
 
-<iframe src="https://musescore.com/user/32728834/scores/26580793/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/26580793>*
 
-<iframe src="https://musescore.com/user/32728834/scores/6869635/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6869635>*
+
 
 
 *原文: [Figured Bass](https://viva.pressbooks.pub/openmusictheory/chapter/figured-bass) | CC BY-SA*

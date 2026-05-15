@@ -315,19 +315,15 @@ P1, P8, P5 | 减音程
 
 ---
 
-## 🎵 音频与互动示例
+## 🎵 
 
-<iframe src="https://musescore.com/user/32728834/scores/6836733/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+音频与互动示例
 
-*<https://musescore.com/user/32728834/scores/6836733>*
 
-<iframe src="https://musescore.com/user/32728834/scores/6836745/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6836745>*
 
-<iframe src="https://musescore.com/user/32728834/scores/6836757/embed" width="100%" height="240" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-*<https://musescore.com/user/32728834/scores/6836757>*
+
 
 
 **互动练习**（需网络，原站加载）:
