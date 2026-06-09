@@ -122,7 +122,7 @@ LMFAO 的"Shots"（2009 年）副歌的片段。
 
 - Duplet, Triplet, Syncopation Term Identification
 
-- Fill the Measure
+- 填充小节
 
 
 ## 许可

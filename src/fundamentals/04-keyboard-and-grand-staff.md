@@ -136,7 +136,7 @@ Chelsey Hamm
 
 **互动练习**（需网络，原站加载）:
 
-- Label the White Keys Drag and Drop
+- 白键标注（拖放）
 
 
 *原文: [键盘与大谱表](https://viva.pressbooks.pub/openmusictheory/chapter/the-keyboard-and-grand-staff) | CC BY-SA*

@@ -174,9 +174,9 @@ I. 基础
 
 **互动练习**（需网络，原站加载）:
 
-- Compound Time Signature Matching
+- 复拍子拍号匹配
 
-- Fill the Measure
+- 填充小节
 
 
 ## 许可

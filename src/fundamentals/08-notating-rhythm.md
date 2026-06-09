@@ -148,13 +148,13 @@ Open Music Theory 优先使用音符时值的北美名称，但了解英国名�
 
 **互动练习**（需网络，原站加载）:
 
-- Rhythmic and Rest Values Drag and Drop
+- 节奏与时值（拖放）
 
 - Which is Longer?
 
-- Note and Rest Values Quiz
+- 音符与时值测验
 
-- Dotted Note and Rest Values Quiz
+- 附点音符与时值测验
 
 
 ## 许可

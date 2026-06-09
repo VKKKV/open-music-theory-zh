@@ -136,7 +136,7 @@ F 也称为升 E，E 也称为降 F。C 也称为升 B，B 也称为降 C。示�
 
 - Half Steps and Whole Steps - All Clefs
 
-- Label the Keys Drag and Drop
+- 键位标注（拖放）
 
 
 ## 许可

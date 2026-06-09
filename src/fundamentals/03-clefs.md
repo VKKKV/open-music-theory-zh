@@ -193,7 +193,7 @@ neutral clef（中性谱号）有时被称为"percussion clef（打击乐谱号�
 
 **互动练习**（需网络，原站加载）:
 
-- Identifying Clefs
+- 识别谱号
 
 
 *原文: [识读谱号](https://viva.pressbooks.pub/openmusictheory/chapter/clefs) | CC BY-SA*

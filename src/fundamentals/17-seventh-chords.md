@@ -233,7 +233,7 @@ Chelsey Hamm
 
 **互动练习**（需网络，原站加载）:
 
-- Seventh Chord Identification
+- 七和弦识别
 
 
 *原文: [Seventh Chords](https://viva.pressbooks.pub/openmusictheory/chapter/seventh-chords) | CC BY-SA*

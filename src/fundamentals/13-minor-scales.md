@@ -256,11 +256,11 @@ A、D、G、C、F、B♭、E♭和A♭小调的调号。
 
 - Minor Scale Whole Step-Half Step
 
-- Spelled Natural Minor Scale
+- 拼写自然小调音阶
 
-- Minor Scale Solfege Matching
+- 小调音阶唱名匹配
 
-- Minor Key Signature
+- 小调调号
 
 
 *原文: [Minor Scales, Scale Degrees, and Key Signatures](https://viva.pressbooks.pub/openmusictheory/chapter/minor-scales) | CC BY-SA*

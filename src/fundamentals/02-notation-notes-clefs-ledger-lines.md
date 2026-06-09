@@ -192,7 +192,7 @@ staff（五线谱）对于传达音高至关重要。五线谱由五条等距的
 
 **互动练习**（需网络，原站加载）:
 
-- Stem Direction Matching
+- 符干方向匹配
 
 
 *原文: [音符、谱号与加线的记谱](https://viva.pressbooks.pub/openmusictheory/chapter/notation-of-notes-clefs-and-ledger-lines) | CC BY-SA*

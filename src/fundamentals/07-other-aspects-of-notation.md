@@ -223,9 +223,9 @@ D.S. al Fine 的工作方式与 D.C. al Fine 类似，不同之处在于回到�
 
 **互动练习**（需网络，原站加载）:
 
-- Dynamic Matching
+- 力度匹配
 
-- Tempo Matching
+- 速度匹配
 
 
 ## 许可

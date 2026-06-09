@@ -328,7 +328,7 @@ P1, P8, P5 | 减音程
 
 **互动练习**（需网络，原站加载）:
 
-- Interval Size Identification
+- 音程度数识别
 
 - Perfect/Major/Minor Intervals Practice
 

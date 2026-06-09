@@ -94,5 +94,5 @@ IV. 自然音和声、临时主音化与转调
 
 ## 🎵 音频与互动示例
 <iframe src="https://www.youtube.com/embed/DsQD95SKtck" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-📋 **章节播放列表**: <https://open.spotify.com/playlist/3RqDcrwvVSp6RIh4J1cPy5?si=ae6f73ac665447d8>
+📋 **章节播放列表**: [Spotify](https://open.spotify.com/playlist/3RqDcrwvVSp6RIh4J1cPy5?si=ae6f73ac665447d8)
 *原文: [Diatonic Sequences in Middles](https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-sequences) | CC BY-SA*

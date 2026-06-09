@@ -242,9 +242,9 @@ I. 基础
 
 **互动练习**（需网络，原站加载）:
 
-- Simple Meter Identification
+- 单拍子识别
 
-- Simple Time Signature Matching
+- 单拍子拍号匹配
 
 
 ## 许可

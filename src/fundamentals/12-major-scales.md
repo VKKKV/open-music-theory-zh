@@ -238,13 +238,13 @@ C、F、降 B、降 E、降 A、降 D、降 G 和降 C 在所有四种谱号中�
 
 - Major Scale Whole Step-Half Step
 
-- Spelled Major Scale
+- 拼写大调音阶
 
-- Major Scale Solfege Matching
+- 大调音阶唱名匹配
 
-- Major Key Signature
+- 大调调号
 
-- Circle of Fifths Matching
+- 五度圈匹配
 
 
 ## 许可

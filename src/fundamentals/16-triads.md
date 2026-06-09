@@ -228,7 +228,7 @@ Chelsey Hamm
 
 **互动练习**（需网络，原站加载）:
 
-- Triad Identification
+- 三和弦识别
 
 
 *原文: [Triads](https://viva.pressbooks.pub/openmusictheory/chapter/triads) | CC BY-SA*
