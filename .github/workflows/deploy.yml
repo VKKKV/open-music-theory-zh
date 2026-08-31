@@ -19,9 +19,16 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
+      - uses: dtolnay/rust-toolchain@stable
+
       - uses: peaceiris/actions-mdbook@v2
         with:
-          mdbook-version: 'latest'
+          mdbook-version: '0.5.3'
+
+      - name: Install mdbook-katex
+        run: cargo install mdbook-katex --version '0.10.0' --locked
+
       - run: mdbook build
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
